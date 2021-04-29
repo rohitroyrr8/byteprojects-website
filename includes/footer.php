@@ -1,8 +1,8 @@
-<footer class="pt-4 pt-md-5 pb-2 pb-md-4 bg-white text-center third-footer">
+<footer class="pt-4 pt-md-5 pb-2 pb-md-4 text-center third-footer">
   <div class="container">
     <div class="pt-3 pt-md-4">
       <div class="mb-3">
-        <img src=".https://fabrx.co/muze/assets/svg/brand/logo.svg" alt="Brand" class="mb-4">
+        <img src="images/logo-white.svg" alt="Brand" class="mb-4">
         <ul class="list-unstyled footer-link">
           <li>
             <a href="javascript:void(0);">About Us</a>
