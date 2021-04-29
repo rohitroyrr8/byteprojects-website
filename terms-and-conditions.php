@@ -10,14 +10,14 @@
         <meta name="author" content="Byteprojects Technologies" />
         <?php include('includes/header.php'); ?>
     </head>
-    <body class="about-template" data-aos-easing="ease-out" data-aos-duration="400" data-aos-delay="0">
+    <body class="bg-black-800 saas-template" data-aos-easing="ease-out" data-aos-duration="400" data-aos-delay="0">
     <div class="container">
         <?php include('includes/navbar.php'); ?>
-        <section class="muse-section pb-4 pb-md-5">
+        <section class="muse-section pb-4 pb-md-5 text-white">
             <div class="row align-items-center aos-init aos-animate" data-aos="fade-up" data-aos-delay="100">
                 <div class="col-lg-8">
                     <h1 class="mb-1">Terms and Conditions</h1>
-                    <p class="big lh-lg text-black-600">Jan 1, 2021</p>
+                    <p class="big lh-lg text-white-600">Jan 1, 2021</p>
                 </div>
             </div>
             <hr class="bg-gray-300" />
