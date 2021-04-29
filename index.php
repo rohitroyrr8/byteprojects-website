@@ -3,11 +3,10 @@
 <html lang="en">
     <head>
         <meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
-        <title>Saas-Style Two - Muse Documentation | Muse - Responsive Website Template</title>
+        <title>Blockchain Development Company in Gurgaon, Delhi NCR, India | <?= APP_NAME ?></title>
 
-        <meta name="description" content="Muse" />
-        <meta name="keywords" content="Muse" />
-        <meta name="author" content="Muse" />
+        <meta name="description" content="Blockchain Development and Smart Contract Audits by Byteprojects Technologies, we provide development on Ethereum, R3 Corda and Hyperledger Fabric">
+        <meta name="keywords" content="blockchain development, blockchain development companies, blockchain developers, blockchain application development, blockchain applications, smart contracts development, blockchain software development, blockchain software development company">
         <?php include('includes/header.php'); ?>
     </head>
     <body class="bg-black-800 saas-template" data-aos-easing="ease-out" data-aos-duration="400" data-aos-delay="0">

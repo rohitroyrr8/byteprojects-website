@@ -5,9 +5,8 @@
         <meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
         <title>Contact Us | <?= APP_NAME ?></title>
 
-        <meta name="description" content="Byteprojects Technologies" />
-        <meta name="keywords" content="Byteprojects Technologies" />
-        <meta name="author" content="Byteprojects Technologies" />
+        <meta name="description" content="Contact Byteprojects Technologies" />
+        <meta name="keywords" content="Byteprojects, contact details Byteprojects, Blockchain development company, blockchain" />
         <?php include('includes/header.php'); ?>
     </head>
     <body class="bg-black-800 saas-template" data-aos-easing="ease-out" data-aos-duration="400" data-aos-delay="0">
