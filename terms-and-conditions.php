@@ -20,18 +20,8 @@
                     <p class="big lh-lg text-white-600">Jan 1, 2021</p>
                 </div>
             </div>
-            <hr class="bg-gray-300" />
+            <hr class="bg-gray-300 text-gray-600" />
             <div class="row pt-4">
-                <!-- <div class="col-md-12">
-                    <h4 class="mb-3">PRIVACY POLICY</h4>
-                </div>
-                <div class="col-md-12 aos-init aos-animate" data-aos="fade-up" data-aos-delay="100">
-                    <p class="lh-lg mb-4">
-                    We hate spam just as much as you do. We will never share your information with third parties unless required to do so by law or requested by you. The information we collect from you will be used to maintain your services with us and to represent the quality of our work to others, such as in our online portfolio.
-                    </p>
-                </div> 
-                
-                </div> -->
                 <div class="wpb_wrapper">
                     <div class="wpb_text_column wpb_content_element  vc_custom_1475129426296">
                         <div class="wpb_wrapper">

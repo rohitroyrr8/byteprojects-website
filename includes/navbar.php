@@ -24,8 +24,8 @@
             </button>
             <div class="collapse navbar-collapse" id="navbarNav">
                 <ul class="navbar-nav m-auto">
-                    <li class="nav-item"><a class="nav-link" href="#">Homepage</a></li>
-                    <li class="nav-item"><a class="nav-link" href="#">Portfolio</a></li>
+                    <li class="nav-item"><a class="nav-link" href="./">Homepage</a></li>
+                    <li class="nav-item"><a class="nav-link" href="portfolio.php">Portfolio</a></li>
                     <li class="nav-item dropdown">
                         <a class="nav-link" href="#" role="button" id="services" data-toggle="dropdown" aria-expanded="false">
                             Services
@@ -39,9 +39,9 @@
                             </svg>
                         </a>
                         <ul class="dropdown-menu shadow-lg" aria-labelledby="services">
-                            <li><a class="dropdown-item" href="#">Blockchain Development</a></li>
-                            <li><a class="dropdown-item" href="#">Web Development</a></li>
-                            <li><a class="dropdown-item" href="#">Digital Marketing</a></li>
+                            <li><a class="dropdown-item" href="./blockchain-development.php">Blockchain Development</a></li>
+                            <li><a class="dropdown-item" href="./web-development.php">Web Development</a></li>
+                            <li><a class="dropdown-item" href="./digital-marketing.php">Digital Marketing</a></li>
                         </ul>
                     </li>
                     <li class="nav-item dropdown">
@@ -57,7 +57,7 @@
                             </svg>
                         </a>
                         <ul class="dropdown-menu shadow-lg" aria-labelledby="about">
-                            <li><a class="dropdown-item" href="#">About us</a></li>
+                            <li><a class="dropdown-item" href="./about-us.php">About us</a></li>
                             <li><a class="dropdown-item" href="#">Career</a></li>
                         </ul>
                     </li>
