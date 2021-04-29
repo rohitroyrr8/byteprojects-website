@@ -10,7 +10,7 @@
         <meta name="author" content="Byteprojects Technologies" />
         <?php include('includes/header.php'); ?>
     </head>
-    <body class="about-template" data-aos-easing="ease-out" data-aos-duration="400" data-aos-delay="0">
+    <body class="bg-black-800 saas-template" data-aos-easing="ease-out" data-aos-duration="400" data-aos-delay="0">
         <div class="container">
             <?php include('includes/navbar.php'); ?>
             <section class="muse-section">
@@ -58,11 +58,11 @@
                     </div>
                 </div>
             </section>
-            <hr class="my-md-0 bg-gray-300" />
+            <hr class="my-md-0 bg-gray-300" /> 
 
             <section class="muse-section">
                 <div class="bg-blue-400 rounded-12 py-5 px-4 text-center position-relative aos-init aos-animate" data-aos="fade-up" data-aos-delay="100">
-                    <h3 class="h1 text-white mt-3">Get started for free</h3>
+                    <h3 class="h1 text-black mt-3">Get started for free</h3>
                     <p class="big text-white lh-lg">Turn your 3d ideas into incredible animations</p>
                     <a href="#" class="btn btn-lg btn-blue-50 mt-1 mb-4">Sign up</a>
                     <div class="position-bottom">

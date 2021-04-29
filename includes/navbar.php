@@ -28,7 +28,7 @@
                     <li class="nav-item"><a class="nav-link" href="#">Portfolio</a></li>
                     <li class="nav-item dropdown">
                         <a class="nav-link" href="#" role="button" id="services" data-toggle="dropdown" aria-expanded="false">
-                            About
+                            Services
                             <svg class="ml-1" data-name="icons/tabler/chevron down" xmlns="http://www.w3.org/2000/svg" width="10" height="10" viewBox="0 0 16 16">
                                 <rect data-name="Icons/Tabler/Chevron Down background" width="16" height="16" fill="none" />
                                 <path
