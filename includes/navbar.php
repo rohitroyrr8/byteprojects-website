@@ -24,8 +24,8 @@
             </button>
             <div class="collapse navbar-collapse" id="navbarNav">
                 <ul class="navbar-nav m-auto">
-                    <li class="nav-item"><a class="nav-link nav-item" href="#">Homepage</a></li>
-                    <li class="nav-item"><a class="nav-link nav-item" href="#">Portfolio</a></li>
+                    <li class="nav-item"><a class="nav-link" href="#">Homepage</a></li>
+                    <li class="nav-item"><a class="nav-link" href="#">Portfolio</a></li>
                     <li class="nav-item dropdown">
                         <a class="nav-link" href="#" role="button" id="services" data-toggle="dropdown" aria-expanded="false">
                             About
