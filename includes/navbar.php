@@ -24,12 +24,11 @@
             </button>
             <div class="collapse navbar-collapse" id="navbarNav">
                 <ul class="navbar-nav m-auto">
-                    <li><a class="nav-link nav-item" href="#">Homepage</a></li>
-                    <li><a class="nav-link nav-item" href="#">Services</a></li>
-                    <li><a class="nav-link nav-item" href="#">Services</a></li>
+                    <li class="nav-item"><a class="nav-link nav-item" href="#">Homepage</a></li>
+                    <li class="nav-item"><a class="nav-link nav-item" href="#">Portfolio</a></li>
                     <li class="nav-item dropdown">
-                        <a class="nav-link" href="#" role="button" id="dashboard" data-toggle="dropdown" aria-expanded="false">
-                            Blog
+                        <a class="nav-link" href="#" role="button" id="services" data-toggle="dropdown" aria-expanded="false">
+                            About
                             <svg class="ml-1" data-name="icons/tabler/chevron down" xmlns="http://www.w3.org/2000/svg" width="10" height="10" viewBox="0 0 16 16">
                                 <rect data-name="Icons/Tabler/Chevron Down background" width="16" height="16" fill="none" />
                                 <path
@@ -39,15 +38,30 @@
                                 />
                             </svg>
                         </a>
-                        <ul class="dropdown-menu shadow-lg" aria-labelledby="dashboard">
-                            <li><a class="dropdown-item" href="../blog/blog-home1.html">Home full width</a></li>
-                            <li>
-                                <a class="dropdown-item" href="../blog/blog-home2.html">Home sidebar <span class="badge badge-danger fs-11 py-1 px-2 ml-1 rounded text-uppercase">New</span></a>
-                            </li>
-                            <li><a class="dropdown-item" href="../blog/blog-post-sidebar.html">Article full width</a></li>
-                            <li><a class="dropdown-item" href="../blog/blog-post.html">Article sidebar</a></li>
+                        <ul class="dropdown-menu shadow-lg" aria-labelledby="services">
+                            <li><a class="dropdown-item" href="#">Blockchain Development</a></li>
+                            <li><a class="dropdown-item" href="#">Web Development</a></li>
+                            <li><a class="dropdown-item" href="#">Digital Marketing</a></li>
                         </ul>
                     </li>
+                    <li class="nav-item dropdown">
+                        <a class="nav-link" href="#" role="button" id="about" data-toggle="dropdown" aria-expanded="false">
+                            About
+                            <svg class="ml-1" data-name="icons/tabler/chevron down" xmlns="http://www.w3.org/2000/svg" width="10" height="10" viewBox="0 0 16 16">
+                                <rect data-name="Icons/Tabler/Chevron Down background" width="16" height="16" fill="none" />
+                                <path
+                                    d="M.264.26A.909.909,0,0,1,1.435.174l.1.086,7.2,7.111a.881.881,0,0,1,.087,1.157l-.087.1-7.2,7.111a.908.908,0,0,1-1.273,0,.881.881,0,0,1-.087-1.157l.087-.1L6.827,8,.264,1.517A.881.881,0,0,1,.176.36Z"
+                                    transform="translate(16 4) rotate(90)"
+                                    fill="#ffffff"
+                                />
+                            </svg>
+                        </a>
+                        <ul class="dropdown-menu shadow-lg" aria-labelledby="about">
+                            <li><a class="dropdown-item" href="#">About us</a></li>
+                            <li><a class="dropdown-item" href="#">Career</a></li>
+                        </ul>
+                    </li>
+                    <li class="nav-item"><a class="nav-link" href="#" role="button">Blog</a> </li>
                 </ul>
                 <a href="./contact-us.php" class="btn btn-lg btn-danger my-3 my-lg-0">Contact Us</a>
             </div>
