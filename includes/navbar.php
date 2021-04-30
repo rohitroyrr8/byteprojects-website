@@ -1,8 +1,8 @@
 <header class="muse-header py-0 py-sm-2">
     <div class="container">
         <nav class="navbar navbar-expand-lg">
-            <a class="navbar-brand" href="javascript:void(0);">
-                <img src="images/logo-white.png" alt="Muse">
+            <a class="navbar-brand" href="./">
+                <img src="images/logo-white.png" alt="Byteprojects Logo" style="width: 200px">
             </a>
             <button class="navbar-toggler collapsed" type="button" data-toggle="collapse" data-target="#navbarNav" aria-controls="navbarNav" aria-expanded="false" aria-label="Toggle navigation">
                 <svg class="menu-icon" data-name="icons/tabler/hamburger" xmlns="http://www.w3.org/2000/svg" width="20" height="20" viewBox="0 0 16 16">
