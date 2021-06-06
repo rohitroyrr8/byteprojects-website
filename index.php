@@ -368,18 +368,24 @@
             <section class="muse-section">
                 <div class="row g-0 pt-4 mt-2 aos-init aos-animate" data-aos="fade-up" data-aos-delay="100">
                     <div class="col-xl-8 m-auto text-center">
-                        <h2 class="display-3">Simple licensing</h2>
-                        <h3 class="h4 mb-0 pb-md-3 mt-3">Flexible pricing for individuals and startups</h3>
+                        <h2 class="display-3">Tech Stack</h2>
+                        <h3 class="h4 mb-0 pb-md-3 mt-3">Flexible for individuals and startups</h3>
                     </div>
                     <div class="w-100 d-flex justify-content-center mt-4">
-                        <ul class="nav nav-segment nav-pills mb-7 bg-gray-800 rounded-pill" role="tablist">
-                            <li class="nav-item">
-                                <a class="nav-link active" data-toggle="pill" href="saas-style-two.html#pills-monthly" role="tab" aria-controls="pills-monthly" aria-selected="true">Monthly</a>
-                            </li>
-                            <li class="nav-item">
-                                <a class="nav-link" data-toggle="pill" href="saas-style-two.html#pills-yearly" role="tab" aria-controls="pills-yearly" aria-selected="false">Yearly <small class="less-value">-20%</small></a>
-                            </li>
-                        </ul>
+                        <div class="row">
+                            <div class="col-md-3">
+                                <img src="https://cdn.pixabay.com/photo/2015/04/23/17/41/node-js-736399_960_720.png" alt="node js logo">
+                            </div>
+                            <div class="col-md-3">
+                                <img src="https://cdn.pixabay.com/photo/2015/04/23/17/41/node-js-736399_960_720.png" alt="node js logo">
+                            </div>
+                            <div class="col-md-3">
+                                <img src="https://cdn.pixabay.com/photo/2015/04/23/17/41/node-js-736399_960_720.png" alt="node js logo">
+                            </div>
+                            <div class="col-md-3">
+                                <img src="https://cdn.pixabay.com/photo/2015/04/23/17/41/node-js-736399_960_720.png" alt="node js logo">
+                            </div>
+                        </div>
                     </div>
                 </div>
                 <div class="tab-content aos-init aos-animate" data-aos="fade-up" data-aos-delay="100">
