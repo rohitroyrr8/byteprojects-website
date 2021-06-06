@@ -12,56 +12,263 @@
     <body class="bg-800 saas-template" data-aos-easing="ease-out" data-aos-duration="400" data-aos-delay="0">
         <div class="container">
             <?php include('includes/navbar.php'); ?>
-            <section class="muse-section">
-                <div class="row align-items-center">
-                    <div class="col-lg-10 m-auto text-center">
+            <section class="banner-section muse-section pb-0">
+                <div class="container">
+                    <div class="row align-items-center">
+                        <div class="col-lg-10 m-auto text-center">
                         <div class="my-3 text-black-600">
-                            <h1 class="display-3">
-                                Do you have a Dream? <br />
+                            <h1 class="display-4">
+                                Do you have a Dream? <br>
                                 Let’s make it Happen!
                             </h1>
-                            <h2 class="mb-0 pb-md-3 mt-2">
-                                Design, prototype, develop, and bring <br class="d-none d-md-block" />
+                            <p class="mb-0 mt-2 pb-md-3" style=" font-size: 20px; font-style: oblique; ">
+                                Design, prototype, develop, and bring <br class="d-none d-md-block">
                                 your ideas to life with the world.  
-                            </h2>
+                            </p>
                             <!-- <a href="saas-style-two.html#" class="btn btn-xl btn-danger rounded-pill my-4">See Pricing</a> -->
                         </div>
-                        <div class="rounded-12 shadow-dark-80 overlay-center" data-aos="fade-up" data-aos-delay="100">
-                            <img src="images/saas-banner.jpg" class="img-fluid shadow-dark-80 rounded-6" alt="Figma" />
+                            <div class="mt-1 mt-md-5 has-circle aos-init aos-animate" data-aos="fade-up" data-aos-delay="100">
+                                <div class="inner-has-circle">
+                                    <div class="rounded-12 shadow-dark-80 overlay-center">
+                                        <img src="https://fabrx.co/muze/assets/img/templates/comprose.png" class="img-fluid shadow-dark-80 rounded-6" alt="Figma" />
+                                    </div>
+                                </div>
+                            </div>
                         </div>
                     </div>
                 </div>
             </section>
-            <section class="muse-section banner-section bg-cyan-600 pb-0">
-            <div class="container">
-            <div class="row align-items-center">
-            <div class="col-lg-10 m-auto text-center">
-            <div class="my-3">
-            <h1 class="display-3 text-white">Speed prototyping <br>with no compromise</h1>
-            <h4 class="mb-0 pb-3 mt-3 text-white">Design, build, collaborate, and prototype</h4>
-            </div>
-            <div class="mt-1 mt-md-5 has-circle aos-init aos-animate" data-aos="fade-up" data-aos-delay="100">
-            <div class="inner-has-circle">
-            <div class="rounded-12 shadow-dark-80 overlay-center">
-            <img src="https://fabrx.co/muze/assets/img/templates/comprose.png" class="img-fluid shadow-dark-80 rounded-6" alt="Figma">
-            </div>
-            </div>
-            </div>
-            </div>
-            </div>
-            </div>
-            <div class="has-shape bg-gray-100">
-            <svg width="100%" height="100%" viewBox="0 0 1920 236" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
-            <g stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
-            <g transform="translate(0.000000, -970.000000)" fill="#0BAACA">
-            <g transform="translate(-2.000000, 214.000000)">
-            <path d="M2,992 C324.951165,853.958547 641.951165,812.636301 953,868.033261 C1264.04884,923.430222 1587.04884,905.507676 1922,814.265623 L1925.27362,759.808598 L0.694852245,756.601701 L2,992 Z" id="Background"></path>
-            </g>
-            </g>
-            </g>
-            </svg>
-            </div>
+
+            <section class="muse-section">
+                <div class="row align-items-center">
+                <div class="col-lg-6 order-lg-2">
+                <div class="px-lg-5">
+                <h5>Integrations</h5>
+                <h2 class="h1 mb-3">Latest and most powerful tech.</h2>
+                <p class="lh-lg">Zombie ipsum reversus ab viral inferno, nam rick grimes malum cerebro. De carne lumbering animata corpora quaeritis. Summus brains sit​​, morbo vel maleficia?</p>
+                <div class="row">
+                <div class="col-4">
+                <small class="text-gray-600">Plugins</small>
+                <h3 class="text-black-600 counter purecounter" data-purecounter-delay="50" data-purecounter-start="0" data-purecounter-end="354" data-purecounter-duration="0">354</h3>
+                </div>
+                <div class="col-4">
+                <small class="text-gray-600">Users</small>
+                <h3 class="text-black-600"><span class="counter purecounter" data-purecounter-delay="50" data-purecounter-start="0" data-purecounter-end="12" data-purecounter-duration="0">12</span>k</h3>
+                </div>
+                <div class="col-4">
+                <small class="text-gray-600">Symbols</small>
+                <h3 class="text-black-600 counter purecounter" data-purecounter-delay="50" data-purecounter-start="0" data-purecounter-end="89" data-purecounter-duration="0">89</h3>
+                </div>
+                </div>
+                </div>
+                </div>
+                <div class="col-lg-6">
+                <div class="card border-0 rounded-24 shadow-dark-80 text-center overlay-center p-4 p-md-5 mt-4 mt-lg-0 aos-init aos-animate" data-aos="fade-up" data-aos-delay="100">
+                <span>
+                <img src="https://fabrx.co/muze/assets/img/templates/powerfull.png" alt="img">
+                </span>
+                </div>
+                </div>
+                </div>
             </section>
+            <section class="muse-section">
+                <div class="row align-items-center">
+                    <div class="col-lg-6">
+                        <div class="px-lg-5 pb-lg-0 pb-md-4">
+                            <h5>Optimization</h5>
+                            <h2 class="h1 mb-md-3">Incredible speed and performance.</h2>
+                            <ul class="plan-features mb-4 mb-md-0">
+                                <li>
+                                    <small class="shadow-sm">
+                                        <svg xmlns="http://www.w3.org/2000/svg" width="12" height="12" viewBox="0 0 10 10">
+                                            <rect data-name="Icons/Tabler/Check background" width="10" height="10" fill="none"></rect>
+                                            <path
+                                                d="M9.224.133a.455.455,0,0,1,.687.592L9.867.776,3.806,6.837a.455.455,0,0,1-.592.044l-.051-.044L.133,3.806a.455.455,0,0,1,.592-.687l.051.044L3.485,5.872Z"
+                                                transform="translate(0 1.25)"
+                                                fill="#20C997"
+                                            ></path>
+                                        </svg>
+                                    </small>
+                                    <div class="feature-right">
+                                        <strong class="mb-1 h5 d-block">Live statistics</strong>
+                                        <p>Add live animations and 3d elements to your design with our incredibly</p>
+                                    </div>
+                                </li>
+                                <li>
+                                    <small class="shadow-sm">
+                                        <svg xmlns="http://www.w3.org/2000/svg" width="12" height="12" viewBox="0 0 10 10">
+                                            <rect data-name="Icons/Tabler/Check background" width="10" height="10" fill="none"></rect>
+                                            <path
+                                                d="M9.224.133a.455.455,0,0,1,.687.592L9.867.776,3.806,6.837a.455.455,0,0,1-.592.044l-.051-.044L.133,3.806a.455.455,0,0,1,.592-.687l.051.044L3.485,5.872Z"
+                                                transform="translate(0 1.25)"
+                                                fill="#20C997"
+                                            ></path>
+                                        </svg>
+                                    </small>
+                                    <div class="feature-right">
+                                        <strong class="mb-1 h5 d-block">Live statistics</strong>
+                                        <p>Add live animations and 3d elements to your design with our incredibly</p>
+                                    </div>
+                                </li>
+                                <li>
+                                    <small class="shadow-sm">
+                                        <svg xmlns="http://www.w3.org/2000/svg" width="12" height="12" viewBox="0 0 10 10">
+                                            <rect data-name="Icons/Tabler/Check background" width="10" height="10" fill="none"></rect>
+                                            <path
+                                                d="M9.224.133a.455.455,0,0,1,.687.592L9.867.776,3.806,6.837a.455.455,0,0,1-.592.044l-.051-.044L.133,3.806a.455.455,0,0,1,.592-.687l.051.044L3.485,5.872Z"
+                                                transform="translate(0 1.25)"
+                                                fill="#20C997"
+                                            ></path>
+                                        </svg>
+                                    </small>
+                                    <div class="feature-right">
+                                        <strong class="mb-1 h5 d-block">Live statistics</strong>
+                                        <p>Add live animations and 3d elements to your design with our incredibly</p>
+                                    </div>
+                                </li>
+                            </ul>
+                        </div>
+                    </div>
+                    <div class="col-sm-6 col-lg-3 pl-lg-0 pr-lg-3">
+                        <div class="card performance-card border-0 rounded-24 text-center shadow-dark-80 mb-4 mb-md-5 aos-init aos-animate" data-aos="fade-up" data-aos-delay="100">
+                            <span class="circle bg-orange-80"><img src="../../assets/img/templates/progress.svg" alt="img" /></span>
+                            <h2 class="mb-0 display-3">19x</h2>
+                            <small class="text-gray-600">Faster performance</small>
+                        </div>
+                        <div class="card performance-card border-0 rounded-24 text-center shadow-dark-80 aos-init aos-animate" data-aos="fade-up" data-aos-delay="100">
+                            <span class="circle bg-purple-80"><img src="../../assets/img/templates/battery-charge.svg" alt="img" /></span>
+                            <h2 class="mb-0 display-3">80%</h2>
+                            <small class="text-gray-600">More efficent</small>
+                        </div>
+                    </div>
+                    <div class="col-sm-6 col-lg-3 pr-lg-0 pl-lg-3">
+                        <div class="card performance-card border-0 rounded-24 text-center shadow-dark-80 my-4 aos-init aos-animate" data-aos="fade-up" data-aos-delay="100">
+                            <span class="circle bg-green-80"><img src="../../assets/img/templates/plugin.svg" alt="img" /></span>
+                            <h2 class="mb-0 display-3">56</h2>
+                            <small class="text-gray-600">New plugins</small>
+                        </div>
+                    </div>
+                </div>
+            </section>
+            <section class="muse-section">
+                <div class="row align-items-end mb-5">
+                    <div class="col-md-8">
+                        <h5>From our blog</h5>
+                        <h2 class="h1 mb-md-0">Latest articles</h2>
+                    </div>
+                    <div class="col-md-4 text-md-right">
+                        <a href="#" class="btn btn-lg btn-link link-dark">
+                            See all articles
+                            <svg class="ml-2" data-name="icons/tabler/chevron right" xmlns="http://www.w3.org/2000/svg" width="12" height="12" viewBox="0 0 16 16">
+                                <rect data-name="Icons/Tabler/Chevron Right background" width="16" height="16" fill="none"></rect>
+                                <path
+                                    d="M.26.26A.889.889,0,0,1,1.418.174l.1.086L8.629,7.371a.889.889,0,0,1,.086,1.157l-.086.1L1.517,15.74A.889.889,0,0,1,.174,14.582l.086-.1L6.743,8,.26,1.517A.889.889,0,0,1,.174.36Z"
+                                    transform="translate(4)"
+                                    fill="#1e1e1e"
+                                ></path>
+                            </svg>
+                        </a>
+                    </div>
+                </div>
+                <div class="swiper-slider-box">
+                    <div class="swiper-container swiper-clients swiper-container-initialized swiper-container-horizontal aos-init aos-animate" data-aos="fade-up" data-aos-delay="100">
+                        <div class="swiper-wrapper" style="transform: translate3d(35.9113px, 0px, 0px); transition: all 0ms ease 0s;">
+                            <div class="swiper-slide h-100 swiper-slide-prev" style="width: 298px; margin-right: 20px;">
+                                <figure class="card muse-card rounded-12 h-100">
+                                    <a href="#" class="muse-animation">
+                                        <img src="../../assets/img/templates/articel1.svg" alt="img" class="w-100" />
+                                    </a>
+                                    <figcaption class="py-3 px-4">
+                                        <h5 class="title-box"><a href="#">Selling UI Kits</a></h5>
+                                        <p class="caption lh-lg text-gray-600">
+                                            Zombies reversus ab inferno, nam malum <br class="d-none d-xl-block" />
+                                            cerebro. De carne animata corpora quaeritis. <br class="d-none d-lg-block" />
+                                            Summus sit​​.
+                                        </p>
+                                    </figcaption>
+                                </figure>
+                            </div>
+                            <div class="swiper-slide h-100 swiper-slide-active" style="width: 298px; margin-right: 20px;">
+                                <figure class="card muse-card rounded-12 h-100">
+                                    <a href="#" class="muse-animation">
+                                        <img src="../../assets/img/templates/article2.svg" alt="img" class="w-100" />
+                                        <span class="badge badge-sm badge-info text-uppercase rounded-pill py-1">New</span>
+                                    </a>
+                                    <figcaption class="py-3 px-4">
+                                        <h5 class="title-box"><a href="#">Harnessing Krate powers</a></h5>
+                                        <p class="caption lh-lg text-gray-600">De Apocalypsi undead dictum mauris. Hi mortuis soulless creaturas, imo monstra adventus vultus comedat cerebella.</p>
+                                    </figcaption>
+                                </figure>
+                            </div>
+                            <div class="swiper-slide h-100 swiper-slide-next" style="width: 298px; margin-right: 20px;">
+                                <figure class="card muse-card rounded-12 h-100">
+                                    <a href="#" class="muse-animation">
+                                        <img src="../../assets/img/templates/article3.svg" alt="img" style="margin-top: -5px;" class="w-100" />
+                                    </a>
+                                    <figcaption class="py-3 px-4">
+                                        <h5 class="title-box"><a href="#">Mice are evil!</a></h5>
+                                        <p class="caption lh-lg text-gray-600">
+                                            Qui offenderit rapto, terribilem incessu. <br />
+                                            The voodoo sacerdos suscitat mortuos comedere carnem.
+                                        </p>
+                                    </figcaption>
+                                </figure>
+                            </div>
+                            <div class="swiper-slide" style="width: 298px; margin-right: 20px;">
+                                <figure class="card muse-card rounded-12">
+                                    <a href="#" class="muse-animation">
+                                        <img src="../../assets/img/templates/articel1.svg" alt="img" class="w-100" />
+                                    </a>
+                                    <figcaption class="py-3 px-4">
+                                        <h5 class="font-weight-semibold title-box"><a href="#">Selling UI Kits</a></h5>
+                                        <p class="caption lh-lg text-gray-600">Zombies reversus ab inferno, nam malum cerebro. De carne animata corpora quaeritis. Summus sit​​.</p>
+                                    </figcaption>
+                                </figure>
+                            </div>
+                        </div>
+                        <div class="swiper-button-prev swiper-button-disabled" tabindex="-1" role="button" aria-label="Previous slide" aria-disabled="true"></div>
+                        <div class="swiper-button-next" tabindex="0" role="button" aria-label="Next slide" aria-disabled="false"></div>
+                        <span class="swiper-notification" aria-live="assertive" aria-atomic="true"></span>
+                    </div>
+                </div>
+            </section>
+            <section class="muse-section">
+                <h5>Why Fabrx</h5>
+                <h2 class="h1 mb-md-4 mb-3 pb-lg-4">Choose the right plan for you</h2>
+                <div class="row">
+                    <div class="col-md-4 aos-init aos-animate" data-aos="fade-up" data-aos-delay="100">
+                        <div class="card muse-card px-4 px-lg-5 py-3 py-md-4 text-center rounded-12 my-3">
+                            <span class="circle circle-lg bg-gray-100 m-auto mt-3"><img src="../../assets/svg/icons/mail.svg" alt="Mail" style="width: 20px;" /></span>
+                            <h5 class="mt-3">Email support</h5>
+                            <p>
+                                24/7 support to answer all your <br class="d-none d-xl-block" />
+                                questions
+                            </p>
+                        </div>
+                    </div>
+                    <div class="col-md-4 aos-init aos-animate" data-aos="fade-up" data-aos-delay="100">
+                        <div class="card muse-card px-4 px-lg-5 py-3 py-md-4 text-center rounded-12 my-3">
+                            <span class="circle circle-lg bg-gray-100 m-auto mt-3"><img src="../../assets/svg/icons/map.svg" alt="Mail" style="width: 20px;" /></span>
+                            <h5 class="mt-3">Remote access</h5>
+                            <p>
+                                Manage your team and files from <br class="d-none d-xl-block" />
+                                anywhere
+                            </p>
+                        </div>
+                    </div>
+                    <div class="col-md-4 aos-init aos-animate" data-aos="fade-up" data-aos-delay="100">
+                        <div class="card muse-card px-4 px-lg-5 py-3 py-md-4 text-center rounded-12 my-3">
+                            <span class="circle circle-lg bg-gray-100 m-auto mt-3"><img src="../../assets/svg/icons/gift.svg" alt="Mail" style="width: 20px;" /></span>
+                            <h5 class="mt-3">Free Credits</h5>
+                            <p>
+                                Redeem goodies from our <br class="d-none d-lg-block" />
+                                marketplace
+                            </p>
+                        </div>
+                    </div>
+                </div>
+            </section>
+
             <section class="muse-section muse-brands">
                 <small class="brand-sub-title">Used by industry leaders around the world</small>
                 <div class="swiper-container swiper-clients swiper-container-initialized swiper-container-horizontal">
