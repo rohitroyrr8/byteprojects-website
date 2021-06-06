@@ -373,17 +373,47 @@
                     </div>
                     <div class="w-100 d-flex justify-content-center mt-4">
                         <div class="row">
-                            <div class="col-md-3">
-                                <img src="https://cdn.pixabay.com/photo/2015/04/23/17/41/node-js-736399_960_720.png" alt="node js logo">
+                            <div class="col-md-3 p-4">
+                                <img src="https://cdn.pixabay.com/photo/2015/04/23/17/41/node-js-736399_960_720.png" alt="">
                             </div>
-                            <div class="col-md-3">
-                                <img src="https://cdn.pixabay.com/photo/2015/04/23/17/41/node-js-736399_960_720.png" alt="node js logo">
+                            <div class="col-md-3 p-4">
+                                <img src="https://www.seekpng.com/png/full/399-3990193_building-a-go-web-app-from-scratch-to.png" alt="">
                             </div>
-                            <div class="col-md-3">
-                                <img src="https://cdn.pixabay.com/photo/2015/04/23/17/41/node-js-736399_960_720.png" alt="node js logo">
+                            <div class="col-md-3 p-4">
+                                <img src="https://1000logos.net/wp-content/uploads/2020/09/Java-Logo.png" alt="">
                             </div>
-                            <div class="col-md-3">
-                                <img src="https://cdn.pixabay.com/photo/2015/04/23/17/41/node-js-736399_960_720.png" alt="node js logo">
+                            <div class="col-md-3 p-4">
+                                <img src="https://i.pinimg.com/originals/c3/8e/e8/c38ee8475ee7f3680f706c56c3a1194c.png" alt="">
+                            </div>
+                            <div class="col-md-3 p-4">
+                                <img src="https://www.metaltoad.com/sites/default/files/styles/large_personal_photo_870x500_/public/2020-05/react-js-blog-header.png?itok=VbfDeSgJ" alt="">
+                            </div>
+                            <div class="col-md-3 p-4">
+                                <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/AngularJS_logo.svg/800px-AngularJS_logo.svg.png" alt="">
+                            </div>
+                            <div class="col-md-3 p-4">
+                                <img src="https://www.docker.com/sites/default/files/d8/2019-07/horizontal-logo-monochromatic-white.png" alt="">
+                            </div>
+                            <div class="col-md-3 p-4">
+                                <img src="https://kubernetes.io/images/kubernetes-horizontal-color.png" alt="">
+                            </div>
+                            <div class="col-md-3 p-4">
+                                <img src="https://logos-download.com/wp-content/uploads/2016/12/Amazon_Web_Services_logo_AWS.png" alt="">
+                            </div>
+                            <div class="col-md-3 p-4">
+                                <img src="https://storage.googleapis.com/briocoinws.appspot.com/1/Google-Cloud-Platform.png" alt="">
+                            </div>
+                            <div class="col-md-3 p-4">
+                                <img src="https://miro.medium.com/max/815/1*0n66zZ2D8-vDkoCDqRbiJQ.png" alt="">
+                            </div>
+                            <div class="col-md-3 p-4">
+                                <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/PHP-logo.svg/2560px-PHP-logo.svg.png" alt="">
+                            </div>
+                            <div class="col-md-3 p-4">
+                                <img src="https://webassets.mongodb.com/_com_assets/cms/MongoDB_Logo_FullColorBlack_RGB-4td3yuxzjs.png" alt="">
+                            </div>
+                            <div class="col-md-3 p-4">
+                                <img src="https://doc.octoperf.com/monitoring/create-connection/postgres/img/postgresql-logo.png" alt="">
                             </div>
                         </div>
                     </div>
