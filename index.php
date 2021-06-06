@@ -131,19 +131,19 @@
                     </div>
                     <div class="col-sm-6 col-lg-3 pl-lg-0 pr-lg-3">
                         <div class="card performance-card border-0 rounded-24 text-center shadow-dark-80 mb-4 mb-md-5 aos-init aos-animate" data-aos="fade-up" data-aos-delay="100">
-                            <span class="circle bg-orange-80"><img src="../../assets/img/templates/progress.svg" alt="img" /></span>
+                            <span class="circle bg-orange-80"><img src="https://fabrx.co/muze/assets/img/templates/progress.svg" alt="img" /></span>
                             <h2 class="mb-0 display-3">19x</h2>
                             <small class="text-gray-600">Faster performance</small>
                         </div>
                         <div class="card performance-card border-0 rounded-24 text-center shadow-dark-80 aos-init aos-animate" data-aos="fade-up" data-aos-delay="100">
-                            <span class="circle bg-purple-80"><img src="../../assets/img/templates/battery-charge.svg" alt="img" /></span>
+                            <span class="circle bg-purple-80"><img src="https://fabrx.co/muze/assets/img/templates/battery-charge.svg" alt="img" /></span>
                             <h2 class="mb-0 display-3">80%</h2>
                             <small class="text-gray-600">More efficent</small>
                         </div>
                     </div>
                     <div class="col-sm-6 col-lg-3 pr-lg-0 pl-lg-3">
                         <div class="card performance-card border-0 rounded-24 text-center shadow-dark-80 my-4 aos-init aos-animate" data-aos="fade-up" data-aos-delay="100">
-                            <span class="circle bg-green-80"><img src="../../assets/img/templates/plugin.svg" alt="img" /></span>
+                            <span class="circle bg-green-80"><img src="https://fabrx.co/muze/assets/img/templates/plugin.svg" alt="img" /></span>
                             <h2 class="mb-0 display-3">56</h2>
                             <small class="text-gray-600">New plugins</small>
                         </div>
