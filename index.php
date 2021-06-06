@@ -9,7 +9,7 @@
         <meta name="keywords" content="blockchain development, blockchain development companies, blockchain developers, blockchain application development, blockchain applications, smart contracts development, blockchain software development, blockchain software development company">
         <?php include('includes/header.php'); ?>
     </head>
-    <body class="bg-800 saas-template" data-aos-easing="ease-out" data-aos-duration="400" data-aos-delay="0">
+    <body class="saas3-template bg-gray-100" data-aos-easing="ease-out" data-aos-duration="400" data-aos-delay="0">
         <div class="container">
             <?php include('includes/navbar.php'); ?>
             <section class="banner-section muse-section pb-0">
