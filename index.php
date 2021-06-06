@@ -176,7 +176,7 @@
                             <div class="swiper-slide h-100 swiper-slide-prev" style="width: 298px; margin-right: 20px;">
                                 <figure class="card muse-card rounded-12 h-100">
                                     <a href="#" class="muse-animation">
-                                        <img src="../../assets/img/templates/articel1.svg" alt="img" class="w-100" />
+                                        <img src="https://fabrx.co/muze/assets/img/templates/articel1.svg" alt="img" class="w-100" />
                                     </a>
                                     <figcaption class="py-3 px-4">
                                         <h5 class="title-box"><a href="#">Selling UI Kits</a></h5>
@@ -191,7 +191,7 @@
                             <div class="swiper-slide h-100 swiper-slide-active" style="width: 298px; margin-right: 20px;">
                                 <figure class="card muse-card rounded-12 h-100">
                                     <a href="#" class="muse-animation">
-                                        <img src="../../assets/img/templates/article2.svg" alt="img" class="w-100" />
+                                        <img src="https://fabrx.co/muze/assets/img/templates/article2.svg" alt="img" class="w-100" />
                                         <span class="badge badge-sm badge-info text-uppercase rounded-pill py-1">New</span>
                                     </a>
                                     <figcaption class="py-3 px-4">
@@ -203,7 +203,7 @@
                             <div class="swiper-slide h-100 swiper-slide-next" style="width: 298px; margin-right: 20px;">
                                 <figure class="card muse-card rounded-12 h-100">
                                     <a href="#" class="muse-animation">
-                                        <img src="../../assets/img/templates/article3.svg" alt="img" style="margin-top: -5px;" class="w-100" />
+                                        <img src="https://fabrx.co/muze/assets/img/templates/article3.svg" alt="img" style="margin-top: -5px;" class="w-100" />
                                     </a>
                                     <figcaption class="py-3 px-4">
                                         <h5 class="title-box"><a href="#">Mice are evil!</a></h5>
@@ -217,7 +217,7 @@
                             <div class="swiper-slide" style="width: 298px; margin-right: 20px;">
                                 <figure class="card muse-card rounded-12">
                                     <a href="#" class="muse-animation">
-                                        <img src="../../assets/img/templates/articel1.svg" alt="img" class="w-100" />
+                                        <img src="https://fabrx.co/muze/assets/img/templates/articel1.svg" alt="img" class="w-100" />
                                     </a>
                                     <figcaption class="py-3 px-4">
                                         <h5 class="font-weight-semibold title-box"><a href="#">Selling UI Kits</a></h5>
@@ -238,7 +238,7 @@
                 <div class="row">
                     <div class="col-md-4 aos-init aos-animate" data-aos="fade-up" data-aos-delay="100">
                         <div class="card muse-card px-4 px-lg-5 py-3 py-md-4 text-center rounded-12 my-3">
-                            <span class="circle circle-lg bg-gray-100 m-auto mt-3"><img src="../../assets/svg/icons/mail.svg" alt="Mail" style="width: 20px;" /></span>
+                            <span class="circle circle-lg bg-gray-100 m-auto mt-3"><img src="https://fabrx.co/muze/assets/svg/icons/mail.svg" alt="Mail" style="width: 20px;" /></span>
                             <h5 class="mt-3">Email support</h5>
                             <p>
                                 24/7 support to answer all your <br class="d-none d-xl-block" />
@@ -248,7 +248,7 @@
                     </div>
                     <div class="col-md-4 aos-init aos-animate" data-aos="fade-up" data-aos-delay="100">
                         <div class="card muse-card px-4 px-lg-5 py-3 py-md-4 text-center rounded-12 my-3">
-                            <span class="circle circle-lg bg-gray-100 m-auto mt-3"><img src="../../assets/svg/icons/map.svg" alt="Mail" style="width: 20px;" /></span>
+                            <span class="circle circle-lg bg-gray-100 m-auto mt-3"><img src="https://fabrx.co/muze/assets/svg/icons/map.svg" alt="Mail" style="width: 20px;" /></span>
                             <h5 class="mt-3">Remote access</h5>
                             <p>
                                 Manage your team and files from <br class="d-none d-xl-block" />
@@ -258,7 +258,7 @@
                     </div>
                     <div class="col-md-4 aos-init aos-animate" data-aos="fade-up" data-aos-delay="100">
                         <div class="card muse-card px-4 px-lg-5 py-3 py-md-4 text-center rounded-12 my-3">
-                            <span class="circle circle-lg bg-gray-100 m-auto mt-3"><img src="../../assets/svg/icons/gift.svg" alt="Mail" style="width: 20px;" /></span>
+                            <span class="circle circle-lg bg-gray-100 m-auto mt-3"><img src="https://fabrx.co/muze/assets/svg/icons/gift.svg" alt="Mail" style="width: 20px;" /></span>
                             <h5 class="mt-3">Free Credits</h5>
                             <p>
                                 Redeem goodies from our <br class="d-none d-lg-block" />
