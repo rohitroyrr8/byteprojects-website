@@ -22,7 +22,7 @@
                     ></path>
                 </svg>
             </button>
-            <div class="collapse navbar-collapse" id="navbarNav">
+            <div class="collapse navbar-collapse mt-3" id="navbarNav">
                 <ul class="navbar-nav m-auto">
                     <li class="nav-item"><a class="nav-link" href="./">Homepage</a></li>
                     <li class="nav-item"><a class="nav-link" href="portfolio.php">Portfolio</a></li>

@@ -15,7 +15,7 @@
             <section class="muse-section">
                 <div class="row align-items-center">
                     <div class="col-lg-10 m-auto text-center">
-                        <div class="my-3">
+                        <div class="my-3 text-black-600">
                             <h1 class="display-3">
                                 Do you have a Dream? <br />
                                 Let’s make it Happen!
@@ -26,13 +26,42 @@
                             </h2>
                             <!-- <a href="saas-style-two.html#" class="btn btn-xl btn-danger rounded-pill my-4">See Pricing</a> -->
                         </div>
-                        <div class="mt-1 mt-md-5 overlay-center aos-init aos-animate" data-aos="fade-up" data-aos-delay="100">
+                        <div class="rounded-12 shadow-dark-80 overlay-center" data-aos="fade-up" data-aos-delay="100">
                             <img src="images/saas-banner.jpg" class="img-fluid shadow-dark-80 rounded-6" alt="Figma" />
                         </div>
                     </div>
                 </div>
             </section>
-
+            <section class="muse-section banner-section bg-cyan-600 pb-0">
+            <div class="container">
+            <div class="row align-items-center">
+            <div class="col-lg-10 m-auto text-center">
+            <div class="my-3">
+            <h1 class="display-3 text-white">Speed prototyping <br>with no compromise</h1>
+            <h4 class="mb-0 pb-3 mt-3 text-white">Design, build, collaborate, and prototype</h4>
+            </div>
+            <div class="mt-1 mt-md-5 has-circle aos-init aos-animate" data-aos="fade-up" data-aos-delay="100">
+            <div class="inner-has-circle">
+            <div class="rounded-12 shadow-dark-80 overlay-center">
+            <img src="https://fabrx.co/muze/assets/img/templates/comprose.png" class="img-fluid shadow-dark-80 rounded-6" alt="Figma">
+            </div>
+            </div>
+            </div>
+            </div>
+            </div>
+            </div>
+            <div class="has-shape bg-gray-100">
+            <svg width="100%" height="100%" viewBox="0 0 1920 236" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+            <g stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+            <g transform="translate(0.000000, -970.000000)" fill="#0BAACA">
+            <g transform="translate(-2.000000, 214.000000)">
+            <path d="M2,992 C324.951165,853.958547 641.951165,812.636301 953,868.033261 C1264.04884,923.430222 1587.04884,905.507676 1922,814.265623 L1925.27362,759.808598 L0.694852245,756.601701 L2,992 Z" id="Background"></path>
+            </g>
+            </g>
+            </g>
+            </svg>
+            </div>
+            </section>
             <section class="muse-section muse-brands">
                 <small class="brand-sub-title">Used by industry leaders around the world</small>
                 <div class="swiper-container swiper-clients swiper-container-initialized swiper-container-horizontal">
