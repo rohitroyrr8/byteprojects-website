@@ -290,12 +290,12 @@
                             </div>
                             <div class="col-md-3 text-center">
                                 <div class="m-3 p-3" style="height: 85px">
-                                    <img style="width: 125px" src="https://1000logos.net/wp-content/uploads/2020/09/Java-Logo.png" alt="">
+                                    <img style="width: 88px" src="https://1000logos.net/wp-content/uploads/2020/09/Java-Logo.png" alt="">
                                 </div>
                             </div>
                             <div class="col-md-3 text-center">
                                 <div class="m-3 p-3" style="height: 85px">
-                                    <img style="width: 125px" src="https://i.pinimg.com/originals/c3/8e/e8/c38ee8475ee7f3680f706c56c3a1194c.png" alt="">
+                                    <img style="width: 140px" src="https://i.pinimg.com/originals/c3/8e/e8/c38ee8475ee7f3680f706c56c3a1194c.png" alt="">
                                 </div>
                             </div>
                             <div class="col-md-3 text-center">
@@ -325,7 +325,7 @@
                             </div>
                             <div class="col-md-3 text-center">
                                 <div class="m-3 p-3" style="height: 85px">
-                                    <img style="width: 125px" src="https://storage.googleapis.com/briocoinws.appspot.com/1/Google-Cloud-Platform.png" alt="">
+                                    <img style="width: 185px" src="https://storage.googleapis.com/briocoinws.appspot.com/1/Google-Cloud-Platform.png" alt="">
                                 </div>
                             </div>
                             <div class="col-md-3 text-center">
@@ -335,7 +335,7 @@
                             </div>
                             <div class="col-md-3 text-center">
                                 <div class="m-3 p-3" style="height: 85px">
-                                    <img style="width: 125px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/PHP-logo.svg/2560px-PHP-logo.svg.png" alt="">
+                                    <img style="width: 85px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/PHP-logo.svg/2560px-PHP-logo.svg.png" alt="">
                                 </div>
                             </div>
                             <div class="col-md-3 text-center">
