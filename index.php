@@ -173,8 +173,8 @@
                 <div class="swiper-slider-box">
                     <div class="swiper-container swiper-clients swiper-container-initialized swiper-container-horizontal aos-init aos-animate" data-aos="fade-up" data-aos-delay="100">
                         <div class="swiper-wrapper" style="transform: translate3d(35.9113px, 0px, 0px); transition: all 0ms ease 0s;">
-                            <div class="swiper-slide h-100 swiper-slide-prev" style="width: 25%; margin-right: 20px;">
-                                <figure class="card muse-card rounded-12 h-100">
+                            <div class="swiper-slide h-100 swiper-slide-prev" style=" margin-right: 20px;">
+                                <figure class="card muse-card rounded-12 h-100">    
                                     <a href="#" class="muse-animation">
                                         <img src="https://fabrx.co/muze/assets/img/templates/articel1.svg" alt="img" class="w-100" />
                                     </a>
@@ -188,7 +188,7 @@
                                     </figcaption>
                                 </figure>
                             </div>
-                            <div class="swiper-slide h-100 swiper-slide-active" style="width: 25%; margin-right: 20px;">
+                            <div class="swiper-slide h-100 swiper-slide-active" style=" margin-right: 20px;">
                                 <figure class="card muse-card rounded-12 h-100">
                                     <a href="#" class="muse-animation">
                                         <img src="https://fabrx.co/muze/assets/img/templates/article2.svg" alt="img" class="w-100" />
@@ -200,7 +200,7 @@
                                     </figcaption>
                                 </figure>
                             </div>
-                            <div class="swiper-slide h-100 swiper-slide-next" style="width: 25%; margin-right: 20px;">
+                            <div class="swiper-slide h-100 swiper-slide-next" style=" margin-right: 20px;">
                                 <figure class="card muse-card rounded-12 h-100">
                                     <a href="#" class="muse-animation">
                                         <img src="https://fabrx.co/muze/assets/img/templates/article3.svg" alt="img" style="margin-top: -5px;" class="w-100" />
@@ -214,7 +214,7 @@
                                     </figcaption>
                                 </figure>
                             </div>
-                            <div class="swiper-slide" style="width: 25%; margin-right: 20px;">
+                            <div class="swiper-slide" style=" margin-right: 20px;">
                                 <figure class="card muse-card rounded-12">
                                     <a href="#" class="muse-animation">
                                         <img src="https://fabrx.co/muze/assets/img/templates/articel1.svg" alt="img" class="w-100" />
