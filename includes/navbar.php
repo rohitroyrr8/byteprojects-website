@@ -2,7 +2,7 @@
     <div class="container">
         <nav class="navbar navbar-expand-lg">
             <a class="navbar-brand" href="./">
-                <img src="images/logo/byteprojects-logo.png" alt="Byteprojects Logo" style="width: 200px"> <h4>Byteprojects</h4>
+                <img src="images/logo/byteprojects-logo.jpeg" alt="Byteprojects Logo" style="width: 200px"> <h4>Byteprojects</h4>
             </a>
             <button class="navbar-toggler collapsed" type="button" data-toggle="collapse" data-target="#navbarNav" aria-controls="navbarNav" aria-expanded="false" aria-label="Toggle navigation">
                 <svg class="menu-icon" data-name="icons/tabler/hamburger" xmlns="http://www.w3.org/2000/svg" width="20" height="20" viewBox="0 0 16 16">
