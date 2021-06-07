@@ -353,6 +353,18 @@
                 </div>
                
             </section>
+
+            <section class="muse-section">
+                <div class="bg-blue-400 rounded-12 py-md-5 px-md-4 py-4 px-3 text-center position-relative aos-init aos-animate" data-aos="fade-up" data-aos-delay="100">
+                    <h3 class="h1 text-white mt-3">Get started for free</h3>
+                    <p class="big text-white lh-lg">Turn your 3d ideas into incredible animations</p>
+                    <a href="#" class="btn btn-lg btn-blue-50 mt-1 mb-4">Sign up</a>
+                    <div class="position-bottom">
+                        <img src="https://fabrx.co/muze/assets/img/templates/shape5.png" alt="img">
+                    </div>
+                </div>
+            </section>
+
         </div>
         <?php include('includes/footer.php' ); ?>
         <?php include('includes/script.php' ); ?>
