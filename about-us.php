@@ -16,7 +16,8 @@
                 <div class="row align-items-center">
                     <div class="col-lg-12">
                         <div class="my-3">
-                            <h1 class="display-4 mt-3 mb-5">Get to know us, we’re honest, dedicated and relentless</h1>
+                            <h1 class="display-4 mt-3 mb-5">The right software development partner can change everything</h1>
+                            <span>We help tech companies to scale up by providing them with agile software development teams</span>
                             <div class="row">
                                 <div class="col-md-6">
                                     <div class="my-4 pb-2 aos-init aos-animate" data-aos="fade-up" data-aos-delay="100">
@@ -25,9 +26,9 @@
                                 </div>
                                 <div class="col-md-6">
                                     <p class=" mb-4 mb-md-5 pb-lg-5 lh-lg text-white-600 aos-init aos-animate" data-aos="fade-up" data-aos-delay="100">
-                                        Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it
-                                        to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset
-                                        sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMake.
+                                    From the very beginning, we have focused on creating the environment that would attract the greatest IT talents. And we succeeded. 
+                                    During the years, The Software House has completed multiple custom software development projects. 75% of them evolved into long-term partnerships.
+                                    These demanding projects resulted in perfecting our agile development process. Its quality is confirmed by 5-star client reviews.
                                     </p>
                                 </div>
                             </div>
@@ -40,20 +41,24 @@
             <section class="muse-section">
                 <div class="row">
                     <div class="col-6 col-md-3 text-center my-2">
-                        <h3 class="display-4 mb-0"><span class="counter purecounter" data-purecounter-delay="50" data-purecounter-start="0" data-purecounter-end="120" data-purecounter-duration="0">120</span>+</h3>
-                        <p class="mb-0">Countries</p>
+                        <h3 class="display-4 mb-0">Performance</h3>
+                        <p class="mb-0">Reach high-level project responsiveness and availability by using low-resource cloud components</p>
                     </div>
                     <div class="col-6 col-md-3 text-center my-2">
-                        <h3 class="display-4 mb-0"><span class="counter purecounter" data-purecounter-delay="50" data-purecounter-start="0" data-purecounter-end="3500" data-purecounter-duration="0">3500</span>+</h3>
-                        <p class="mb-0">Clients</p>
+                        <h3 class="display-4 mb-0">Adaptability</h3>
+                        <p class="mb-0">Add new features easier — be it a different front end or a process rule — with a software architecture that creates a clear separation of concerns</p>
                     </div>
                     <div class="col-6 col-md-3 text-center my-2">
-                        <h3 class="display-4 mb-0"><span class="counter purecounter" data-purecounter-delay="50" data-purecounter-start="0" data-purecounter-end="120" data-purecounter-duration="0">120</span></h3>
-                        <p class="mb-0">Gadgets</p>
+                        <h3 class="display-4 mb-0">Cost Optimisation</h3>
+                        <p class="mb-0">Expand without overspending with pay-for-use technology that minimizes infrastructure operation costs</p>
                     </div>
                     <div class="col-6 col-md-3 text-center my-2">
-                        <h3 class="display-4 mb-0"><span class="counter purecounter" data-purecounter-delay="50" data-purecounter-start="0" data-purecounter-end="455" data-purecounter-duration="0">455</span></h3>
-                        <p class="mb-0">Offices</p>
+                        <h3 class="display-4 mb-0">Security</h3>
+                        <p class="mb-0">Yes, experts agree it can be secure. Your new architecture will comply with best practices in user security and monitoring, information security, and application-level security</p>
+                    </div>
+                    <div class="col-6 col-md-3 text-center my-2">
+                        <h3 class="display-4 mb-0">Reliability</h3>
+                        <p class="mb-0">Minimize application failures thanks to automated scalability that responds to fluctuating traffic</p>
                     </div>
                 </div>
             </section>
