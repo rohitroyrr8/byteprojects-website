@@ -18,19 +18,20 @@
                         <div class="my-3">
                             <span class="badge badge-primary text-uppercase">About Us</span>
                             <h1 class="display-4 mt-3">Get to know us, we’re honest, dedicated and relentless</h1>
-                            <div class="my-4 pb-2 aos-init aos-animate" data-aos="fade-up" data-aos-delay="100">
-                                <img src="https://fabrx.co/muze/assets/img/pages/about-us.jpg" class="rounded-12 w-100" alt="img" />
+                            <div class="row">
+                                <div class="col-md-6">
+                                    <div class="my-4 pb-2 aos-init aos-animate" data-aos="fade-up" data-aos-delay="100">
+                                        <img src="/images/about-us-collage.png" class="rounded-12 w-100" alt="" />
+                                    </div>
+                                </div>
+                                <div class="col-md-6">
+                                    <p class="big mb-4 mb-md-5 pb-lg-5 lh-lg text-white-600 aos-init aos-animate" data-aos="fade-up" data-aos-delay="100">
+                                        Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it
+                                        to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset
+                                        sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMake.
+                                    </p>
+                                </div>
                             </div>
-                            <p class="big mb-4 mb-md-5 pb-lg-5 lh-lg text-white-600 aos-init aos-animate" data-aos="fade-up" data-aos-delay="100">
-                                Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it
-                                to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset
-                                sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMake.
-                            </p>
-                            <p class="big mb-0 lh-lg text-white-600 aos-init aos-animate" data-aos="fade-up" data-aos-delay="100">
-                                There are many variations of passages of Lorem Ipsum available, but the majority have suffered alteration in some form, by injected humour, or randomised words which don't look even slightly believable. If you are
-                                going to use a passage of Lorem Ipsum, you need to be sure there isn't anything embarrassing hidden in the middle of text. All the Lorem Ipsum generators on the Internet tend to repeat predefined chunks as necessary,
-                                making this the first true generator on the Internet. It uses a dictionary of over 200 Latin words.
-                            </p>
                         </div>
                     </div>
                 </div>
