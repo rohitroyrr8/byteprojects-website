@@ -1,3 +1,6 @@
+<script src="https://apps.elfsight.com/p/platform.js" defer></script>
+<div class="elfsight-app-7bf65306-fa9c-402c-94fc-b892ddcfb302"></div>
+
 <script src="js/bootstrap.bundle.min.js" type="text/javascript"></script>
 <script src="js/swiper-bundle.min.js" type="text/javascript"></script>
 <script src="js/aos.js" type="text/javascript"></script>
