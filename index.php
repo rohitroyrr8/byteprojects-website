@@ -18,8 +18,8 @@
                         <div class="col-lg-10 m-auto text-center">
                         <div class="my-3 text-black-600">
                             <h1 class="display-4">
-                                Do you have a Dream? <br>
-                                Let’s make it Happen!
+                                Product development & <br>
+                                <b>software consultancy </b>
                             </h1>
                             <p class="mb-0 mt-2 pb-md-3" style=" font-size: 20px; font-style: oblique; ">
                                 Design, prototype, develop, and bring <br class="d-none d-md-block">
@@ -44,7 +44,7 @@
                 <div class="col-lg-6 order-lg-2">
                 <div class="px-lg-5">
                 <h5>Integrations</h5>
-                <h2 class="h1 mb-3">Latest and most powerful tech.</h2>
+                <h2 class="h1 mb-3">An ideal place for launching a new software project.</h2>
                 <p class="lh-lg">Zombie ipsum reversus ab viral inferno, nam rick grimes malum cerebro. De carne lumbering animata corpora quaeritis. Summus brains sit​​, morbo vel maleficia?</p>
                 <div class="row">
                 <div class="col-4">
@@ -150,7 +150,7 @@
                     </div>
                 </div>
             </section>
-            <section class="muse-section">
+            <!-- <section class="muse-section">
                 <div class="row align-items-end mb-5">
                     <div class="col-md-8">
                         <h5>From our blog</h5>
@@ -231,19 +231,16 @@
                         <span class="swiper-notification" aria-live="assertive" aria-atomic="true"></span>
                     </div>
                 </div>
-            </section>
+            </section> -->
             <section class="muse-section">
-                <h5>Why Fabrx</h5>
-                <h2 class="h1 mb-md-4 mb-3 pb-lg-4">Choose the right plan for you</h2>
+                <h5>Complete Package</h5>
+                <h2 class="h1 mb-md-4 mb-3 pb-lg-4">From product design to software continuous delivery</h2>
                 <div class="row">
                     <div class="col-md-4 aos-init aos-animate" data-aos="fade-up" data-aos-delay="100">
                         <div class="card muse-card px-4 px-lg-5 py-3 py-md-4 text-center rounded-12 my-3">
-                            <span class="circle circle-lg bg-gray-100 m-auto mt-3"><img src="https://fabrx.co/muze/assets/svg/icons/mail.svg" alt="Mail" style="width: 20px;" /></span>
-                            <h5 class="mt-3">Email support</h5>
-                            <p>
-                                24/7 support to answer all your <br class="d-none d-xl-block" />
-                                questions
-                            </p>
+                            <span class="circle circle-lg bg-gray-100 m-auto mt-3"><img src="./images/services-icon-web-development.svg" alt="Mail" style="width: 20px;" /></span>
+                            <h5 class="mt-3">Web Development</h5>
+                            <p>Real time web application that grow with your business.</p>
                         </div>
                     </div>
                     <div class="col-md-4 aos-init aos-animate" data-aos="fade-up" data-aos-delay="100">
@@ -356,9 +353,9 @@
 
             <section class="muse-section">
                 <div class="bg-blue-400 rounded-12 py-md-5 px-md-4 py-4 px-3 text-center position-relative aos-init aos-animate" data-aos="fade-up" data-aos-delay="100">
-                    <h3 class="h1 text-white mt-3">Get started for free</h3>
-                    <p class="big text-white lh-lg">Turn your 3d ideas into incredible animations</p>
-                    <a href="#" class="btn btn-lg btn-blue-50 mt-1 mb-4">Sign up</a>
+                    <p class="big text-white lh-lg">Is software important for your business?</p>    
+                    <h3 class="h1 text-white mt-3">Build great products with our Blockchain Development Services.</h3> 
+                    <a href="#" class="btn btn-lg btn-blue-50 mt-1 mb-4">Contact Us</a>
                     <div class="position-bottom">
                         <img src="https://fabrx.co/muze/assets/img/templates/shape5.png" alt="img">
                     </div>
