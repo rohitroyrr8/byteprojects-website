@@ -2,7 +2,7 @@
   <div class="container">
     <div class="row pt-3 pt-md-4">
       <div class="col-md-5 mb-3">
-        <img src="../assets/svg/brand/logo.svg" alt="Brand" class="mb-2">
+        <img src="images/logo/byteprojects-logo.jpeg" alt="Byteprojects" class="mb-2">
         <p class="lh-lg">We are passionate about building carefully <br class="d-none d-lg-block">thought out UI products that will improve your <br class="d-none d-lg-block">design workflow.</p>
       </div>
       <div class="col mb-3">
@@ -79,7 +79,7 @@
         </div>
       </div>
       <div class="col-sm-7">
-        <p class="small text-muted text-center text-sm-left mb-2">© 2020 Muse Design. All rights reserved.</p>
+        <p class="small text-muted text-center text-sm-left mb-2">© <?=date('Y')?> Byteprojects Technologies. All rights reserved.</p>
       </div>
     </div>
   </div>
