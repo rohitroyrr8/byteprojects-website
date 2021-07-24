@@ -150,7 +150,7 @@
                     </div>
                 </div>
             </section>
-            <!-- <section class="muse-section">
+            <section class="muse-section">
                 <div class="row align-items-end mb-5">
                     <div class="col-md-8">
                         <h5>From our blog</h5>
@@ -231,7 +231,7 @@
                         <span class="swiper-notification" aria-live="assertive" aria-atomic="true"></span>
                     </div>
                 </div>
-            </section> -->
+            </section>
             <section class="muse-section">
                 <h5>Complete Package</h5>
                 <h2 class="h1 mb-md-4 mb-3 pb-lg-4">From product design to software continuous delivery</h2>
