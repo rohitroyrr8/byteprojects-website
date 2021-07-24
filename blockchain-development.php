@@ -38,33 +38,33 @@
             <section class="muse-section">
                 <div class="row">
                     <h2 class="text-center">Blockchain Development Services</h2>
-                    <div class="col-4 col-md-4 my-2">
+                    <div class="col-md-4 col-sm-12 my-2">
                         <img src="images/svg/custom_development.svg" alt="" style="width: 70px;margin: 30px 0px;">
                         <h5 class="mb-2">Custom Blockchain Development Solutions</h5>
                         <p class="mb-0">Whether through the creation of decentralized applications or support of a private blockchain, Byteprojects’s experienced blockchain developers help clients take advantage of the numerous opportunities that this technology has to offer.</p>
                     </div>
-                    <div class="col-4 col-md-4 my-2">
+                    <div class="col-md-4 col-sm-12 my-2">
                         <img src="images/svg/blockchain_security.svg" alt="" style="width: 70px;margin: 30px 0px;">
                         <h5 class="mb-2">Blockchain Security</h5>
                         <p class="mb-0">Blockchain provides alternative options for digital security, using familiar cryptography but with unchangeable data. Work with Byteprojects developers to understand how your company can use blockchain as a means to secure data and enhance the trust verification processes.</p>
                     </div>
                     
-                    <div class="col-4 col-md-4 my-2">
+                    <div class="col-md-4 col-sm-12 my-2">
                         <img src="images/svg/smart-contract.svg" alt="" style="width: 70px;margin: 30px 0px;">
                         <h5 class="mb-2">Smart Contract Development</h5>
                         <p class="mb-0">Smart contracts are programmed contracts that utilize execution in a distributed environment for enforceability. These can be used to support crowdfunding, blind auctions, multi-signature wallets, and more.</p>
                     </div>
-                    <div class="col-4 col-md-4 my-2">
+                    <div class="col-md-4 col-sm-12 my-2">
                         <img src="images/svg/ethereum.svg" alt="" style="width: 70px;margin: 30px 0px;">
                         <h5 class="mb-2">Ethereum</h5>
                         <p class="mb-0">Companies are turning to Ethereum, a blockchain-based platform, for broader applications of trust verification beyond just cryptocurrency, including smart contracts (powered by the programming language Solidity).</p>
                     </div>
-                    <div class="col-4 col-md-4 my-2">
+                    <div class="col-md-4 col-sm-12 my-2">
                         <img src="images/svg/bitcoin.svg" alt="" style="width: 70px;margin: 30px 0px;">
                         <h5 class="mb-2">Bitcoin</h5>
                         <p class="mb-0">The most popular cryptocurrency in the world, Bitcoin was also the first distributed blockchain. Byteprojects developers have experience with Bitcoin Core, the underlying reference client for the currency, as well as with the digital currency itself.</p>
                     </div>
-                    <div class="col-4 col-md-4 my-2">
+                    <div class="col-md-4 col-sm-12 my-2">
                         <img src="images/svg/hyperledger.svg" alt="" style="width: 70px;margin: 30px 0px;">
                         <h5 class="mb-2">Hyperledger</h5>
                         <p class="mb-0">Created by the Linux Foundation, Hyperledger is a project of open-source blockchains and related tools. Byteprojects Hyperledger developers have experience in Hyperledger blockchain platforms like Fabric and Besu Sawtooth, and tools such as Caliper.</p>
