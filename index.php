@@ -43,9 +43,9 @@
                 <div class="row align-items-center">
                 <div class="col-lg-6 order-lg-2">
                 <div class="px-lg-5">
-                <h5>Integrations</h5>
-                <h2 class="h1 mb-3">An ideal place for launching a new software project.</h2>
-                <p class="lh-lg">Zombie ipsum reversus ab viral inferno, nam rick grimes malum cerebro. De carne lumbering animata corpora quaeritis. Summus brains sit​​, morbo vel maleficia?</p>
+                <h5>Solutions</h5>
+                <h2 class="h1 mb-3">Build or extend your development team in weeks, not months</h2>
+                <p class="lh-lg">We love to work with people who see software as the core of their businesses. During the last few years, we’ve helped CTOs in the following scenarios.</p>
                 <div class="row">
                 <div class="col-4">
                 <small class="text-gray-600">Plugins</small>
