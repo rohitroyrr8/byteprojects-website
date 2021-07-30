@@ -151,6 +151,42 @@
                 </div>
             </section>
             <section class="muse-section">
+                <div class="row">
+                    <h2 class="text-center">Blockchain Development Services</h2>
+                    <div class="col-md-4 col-sm-12 my-2">
+                        <img src="images/svg/custom_development.svg" alt="" style="width: 70px;margin: 30px 0px;">
+                        <h5 class="mb-2">Custom Blockchain Development Solutions</h5>
+                        <p class="mb-0">Whether through the creation of decentralized applications or support of a private blockchain, Byteprojects’s experienced blockchain developers help clients take advantage of the numerous opportunities that this technology has to offer.</p>
+                    </div>
+                    <div class="col-md-4 col-sm-12 my-2">
+                        <img src="images/svg/blockchain_security.svg" alt="" style="width: 70px;margin: 30px 0px;">
+                        <h5 class="mb-2">Blockchain Security</h5>
+                        <p class="mb-0">Blockchain provides alternative options for digital security, using familiar cryptography but with unchangeable data. Work with Byteprojects developers to understand how your company can use blockchain as a means to secure data and enhance the trust verification processes.</p>
+                    </div>
+                    
+                    <div class="col-md-4 col-sm-12 my-2">
+                        <img src="images/svg/smart-contract.svg" alt="" style="width: 70px;margin: 30px 0px;">
+                        <h5 class="mb-2">Smart Contract Development</h5>
+                        <p class="mb-0">Smart contracts are programmed contracts that utilize execution in a distributed environment for enforceability. These can be used to support crowdfunding, blind auctions, multi-signature wallets, and more.</p>
+                    </div>
+                    <div class="col-md-4 col-sm-12 my-2">
+                        <img src="images/svg/ethereum.svg" alt="" style="width: 70px;margin: 30px 0px;">
+                        <h5 class="mb-2">Ethereum</h5>
+                        <p class="mb-0">Companies are turning to Ethereum, a blockchain-based platform, for broader applications of trust verification beyond just cryptocurrency, including smart contracts (powered by the programming language Solidity).</p>
+                    </div>
+                    <div class="col-md-4 col-sm-12 my-2">
+                        <img src="images/svg/bitcoin.svg" alt="" style="width: 70px;margin: 30px 0px;">
+                        <h5 class="mb-2">Bitcoin</h5>
+                        <p class="mb-0">The most popular cryptocurrency in the world, Bitcoin was also the first distributed blockchain. Byteprojects developers have experience with Bitcoin Core, the underlying reference client for the currency, as well as with the digital currency itself.</p>
+                    </div>
+                    <div class="col-md-4 col-sm-12 my-2">
+                        <img src="images/svg/hyperledger.svg" alt="" style="width: 70px;margin: 30px 0px;">
+                        <h5 class="mb-2">Hyperledger</h5>
+                        <p class="mb-0">Created by the Linux Foundation, Hyperledger is a project of open-source blockchains and related tools. Byteprojects Hyperledger developers have experience in Hyperledger blockchain platforms like Fabric and Besu Sawtooth, and tools such as Caliper.</p>
+                    </div>
+                </div>
+            </section>
+            <section class="muse-section">
                 <div class="row align-items-end mb-5">
                     <div class="col-md-8">
                         <h5>From our blog</h5>
@@ -233,19 +269,14 @@
                 </div>
             </section>
             <section class="muse-section">
-                <h5>Blockchain Development Services</h5>
-                <h2 class="h1 mb-md-4 mb-3 pb-lg-4">Blockchain is revolutionizing industries including fintech, real estate, and supply chain 
-                                    management. Companies work with Byteprojects's blockchain consulting services to augment their
-                                    application development teams for cryptocurrency exchange and wallet development, 
-                                    mobile app development, and other projects.</h2>
+                <h5>Complete Package</h5>
+                <h2 class="h1 mb-md-4 mb-3 pb-lg-4">From product design to software continuous delivery</h2>
                 <div class="row">
                     <div class="col-md-4 aos-init aos-animate" data-aos="fade-up" data-aos-delay="100">
                         <div class="card muse-card px-4 px-lg-5 py-3 py-md-4 text-center rounded-12 my-3">
-                            <span class="circle circle-lg bg-gray-100 m-auto mt-3">
-                                <img src="images/svg/custom_development.svg" alt="" style="width: 70px;margin: 30px 0px;">    
-                            </span>
-                            <h5 class="mt-3">Custom Blockchain Development Solutions</h5>
-                            <p>Whether through the creation of decentralized applications or support of a private blockchain, Byteprojects’s experienced blockchain developers help clients take advantage of the numerous opportunities that this technology has to offer.</p>
+                            <span class="circle circle-lg bg-gray-100 m-auto mt-3"><img src="./images/services-icon-web-development.svg" alt="Mail" style="width: 20px;" /></span>
+                            <h5 class="mt-3">Web Development</h5>
+                            <p>Real time web application that grow with your business.</p>
                         </div>
                     </div>
                     <div class="col-md-4 aos-init aos-animate" data-aos="fade-up" data-aos-delay="100">
