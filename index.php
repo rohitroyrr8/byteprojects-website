@@ -46,7 +46,8 @@
                 <h5>Solutions</h5>
                 <h2 class="h1 mb-3">Build or extend your development team in weeks, not months</h2>
                 <p class="lh-lg">We love to work with people who see software as the core of their businesses. During the last few years, we’ve helped CTOs in the following scenarios.</p>
-                <div class="row">
+                <p class="lh-lg">We will help you in efficient tech stack migration, updating software, implementing new solutions and transforming technical debt into technical wealth</p>
+                <!-- <div class="row">
                 <div class="col-4">
                 <small class="text-gray-600">Plugins</small>
                 <h3 class="text-black-600 counter purecounter" data-purecounter-delay="50" data-purecounter-start="0" data-purecounter-end="354" data-purecounter-duration="0">354</h3>
@@ -59,7 +60,7 @@
                 <small class="text-gray-600">Symbols</small>
                 <h3 class="text-black-600 counter purecounter" data-purecounter-delay="50" data-purecounter-start="0" data-purecounter-end="89" data-purecounter-duration="0">89</h3>
                 </div>
-                </div>
+                </div> -->
                 </div>
                 </div>
                 <div class="col-lg-6">
