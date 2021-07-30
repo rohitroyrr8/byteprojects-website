@@ -408,9 +408,8 @@
             </section>
             <section class="muse-section">
                 <div class="row g-0 pt-4 mt-2 aos-init aos-animate" data-aos="fade-up" data-aos-delay="100">
-                    <div class="col-xl-8 m-auto text-center">
-                        <h3 class="h4 mb-0 pb-md-3 mt-3">Flexible for individuals and startups</h3>
-                    </div>
+                    <h5>Complete Package</h5>
+                    <h2 class="h1 mb-md-4 mb-3 pb-lg-4">From product design to software continuous delivery</h2>
                     <div class="">
                         <div class="row">
                             <div class="col-md-2 text-center mb-3">
