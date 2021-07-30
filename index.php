@@ -409,33 +409,32 @@
             <section class="muse-section">
                 <div class="row g-0 pt-4 mt-2 aos-init aos-animate" data-aos="fade-up" data-aos-delay="100">
                     <div class="col-xl-8 m-auto text-center">
-                        <h2 class="display-3">Tech Stack</h2>
                         <h3 class="h4 mb-0 pb-md-3 mt-3">Flexible for individuals and startups</h3>
                     </div>
-                    <div class="w-100 d-flex justify-content-center mt-4">
+                    <div class="">
                         <div class="row">
-                            <div class="col-md-2 text-center">
+                            <div class="col-md-2 text-center mb-3">
                                 <img src="https://tsh.io/wp-content/uploads/2019/10/property-finder_logo.svg">
                             </div>
-                            <div class="col-md-2 text-center">
+                            <div class="col-md-2 text-center mb-3">
                                 <img src="https://tsh.io/wp-content/uploads/2019/10/property-finder_logo.svg">
                             </div>
-                            <div class="col-md-2 text-center">
+                            <div class="col-md-2 text-center mb-3">
                                 <img src="https://tsh.io/wp-content/uploads/2019/10/property-finder_logo.svg">
                             </div>
-                            <div class="col-md-2 text-center">
+                            <div class="col-md-2 text-center mb-3">
                                 <img src="https://tsh.io/wp-content/uploads/2019/10/property-finder_logo.svg">
                             </div>
-                            <div class="col-md-2 text-center">
+                            <div class="col-md-2 text-center mb-3">
                                 <img src="https://tsh.io/wp-content/uploads/2019/10/property-finder_logo.svg">
                             </div>
-                            <div class="col-md-2 text-center">
+                            <div class="col-md-2 text-center mb-3">
                                 <img src="https://tsh.io/wp-content/uploads/2019/10/property-finder_logo.svg">
                             </div>
-                            <div class="col-md-2 text-center">
+                            <div class="col-md-2 text-center mb-3">
                                 <img src="https://tsh.io/wp-content/uploads/2019/10/property-finder_logo.svg">
                             </div>
-                            <div class="col-md-2 text-center">
+                            <div class="col-md-2 text-center mb-3">
                                 <img src="https://tsh.io/wp-content/uploads/2019/10/property-finder_logo.svg">
                             </div>
                         </div>
