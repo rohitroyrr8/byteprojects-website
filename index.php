@@ -275,7 +275,7 @@
                     <div class="col-md-4 aos-init aos-animate" data-aos="fade-up" data-aos-delay="100">
                         <div class="card muse-card px-4 px-lg-5 py-3 py-md-4 text-center rounded-12 my-3">
                             <span class="circle circle-lg bg-gray-100 m-auto mt-3"><img src="./images/services-icon-web-development.svg" alt="Mail" style="width: 20px;" /></span>
-                            <h5 class="mt-3">System Designging</h5>
+                            <h5 class="mt-3">System Designing</h5>
                             <p>Real time web application that grow with your business.</p>
                         </div>
                     </div>
