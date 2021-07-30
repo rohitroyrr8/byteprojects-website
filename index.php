@@ -275,7 +275,7 @@
                     <div class="col-md-4 aos-init aos-animate" data-aos="fade-up" data-aos-delay="100">
                         <div class="card muse-card px-4 px-lg-5 py-3 py-md-4 text-center rounded-12 my-3">
                             <span class="circle circle-lg bg-gray-100 m-auto mt-3"><img src="./images/services-icon-web-development.svg" alt="Mail" style="width: 20px;" /></span>
-                            <h5 class="mt-3">System Designing</h5>
+                            <h5 class="mt-3">Software architecture</h5>
                             <p>Real time web application that grow with your business.</p>
                         </div>
                     </div>
@@ -292,7 +292,7 @@
                     <div class="col-md-4 aos-init aos-animate" data-aos="fade-up" data-aos-delay="100">
                         <div class="card muse-card px-4 px-lg-5 py-3 py-md-4 text-center rounded-12 my-3">
                             <span class="circle circle-lg bg-gray-100 m-auto mt-3"><img src="https://fabrx.co/muze/assets/svg/icons/gift.svg" alt="Mail" style="width: 20px;" /></span>
-                            <h5 class="mt-3">Deployment</h5>
+                            <h5 class="mt-3">Cloud & DevOps</h5>
                             <p>
                                 Redeem goodies from our <br class="d-none d-lg-block" />
                                 marketplace
@@ -406,7 +406,42 @@
                 </div>
                
             </section>
-
+            <section class="muse-section">
+                <div class="row g-0 pt-4 mt-2 aos-init aos-animate" data-aos="fade-up" data-aos-delay="100">
+                    <div class="col-xl-8 m-auto text-center">
+                        <h2 class="display-3">Tech Stack</h2>
+                        <h3 class="h4 mb-0 pb-md-3 mt-3">Flexible for individuals and startups</h3>
+                    </div>
+                    <div class="w-100 d-flex justify-content-center mt-4">
+                        <div class="row">
+                            <div class="col-md-2 text-center">
+                                <img src="https://tsh.io/wp-content/uploads/2019/10/property-finder_logo.svg">
+                            </div>
+                            <div class="col-md-2 text-center">
+                                <img src="https://tsh.io/wp-content/uploads/2019/10/property-finder_logo.svg">
+                            </div>
+                            <div class="col-md-2 text-center">
+                                <img src="https://tsh.io/wp-content/uploads/2019/10/property-finder_logo.svg">
+                            </div>
+                            <div class="col-md-2 text-center">
+                                <img src="https://tsh.io/wp-content/uploads/2019/10/property-finder_logo.svg">
+                            </div>
+                            <div class="col-md-2 text-center">
+                                <img src="https://tsh.io/wp-content/uploads/2019/10/property-finder_logo.svg">
+                            </div>
+                            <div class="col-md-2 text-center">
+                                <img src="https://tsh.io/wp-content/uploads/2019/10/property-finder_logo.svg">
+                            </div>
+                            <div class="col-md-2 text-center">
+                                <img src="https://tsh.io/wp-content/uploads/2019/10/property-finder_logo.svg">
+                            </div>
+                            <div class="col-md-2 text-center">
+                                <img src="https://tsh.io/wp-content/uploads/2019/10/property-finder_logo.svg">
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </section>
             <section class="muse-section">
                 <div class="bg-blue-400 rounded-12 py-md-5 px-md-4 py-4 px-3 text-center position-relative aos-init aos-animate" data-aos="fade-up" data-aos-delay="100">
                     <p class="big text-white lh-lg">Is software important for your business?</p>    
