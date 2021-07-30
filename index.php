@@ -233,14 +233,19 @@
                 </div>
             </section>
             <section class="muse-section">
-                <h5>Complete Package</h5>
-                <h2 class="h1 mb-md-4 mb-3 pb-lg-4">From product design to software continuous delivery</h2>
+                <h5>Blockchain Development Services</h5>
+                <h2 class="h1 mb-md-4 mb-3 pb-lg-4">Blockchain is revolutionizing industries including fintech, real estate, and supply chain 
+                                    management. Companies work with Byteprojects's blockchain consulting services to augment their
+                                    application development teams for cryptocurrency exchange and wallet development, 
+                                    mobile app development, and other projects.</h2>
                 <div class="row">
                     <div class="col-md-4 aos-init aos-animate" data-aos="fade-up" data-aos-delay="100">
                         <div class="card muse-card px-4 px-lg-5 py-3 py-md-4 text-center rounded-12 my-3">
-                            <span class="circle circle-lg bg-gray-100 m-auto mt-3"><img src="./images/services-icon-web-development.svg" alt="Mail" style="width: 20px;" /></span>
-                            <h5 class="mt-3">Web Development</h5>
-                            <p>Real time web application that grow with your business.</p>
+                            <span class="circle circle-lg bg-gray-100 m-auto mt-3">
+                                <img src="images/svg/custom_development.svg" alt="" style="width: 70px;margin: 30px 0px;">    
+                            </span>
+                            <h5 class="mt-3">Custom Blockchain Development Solutions</h5>
+                            <p>Whether through the creation of decentralized applications or support of a private blockchain, Byteprojects’s experienced blockchain developers help clients take advantage of the numerous opportunities that this technology has to offer.</p>
                         </div>
                     </div>
                     <div class="col-md-4 aos-init aos-animate" data-aos="fade-up" data-aos-delay="100">
