@@ -186,7 +186,7 @@
                     </div>
                 </div>
             </section>
-            <section class="muse-section">
+            <!-- <section class="muse-section">
                 <div class="row align-items-end mb-5">
                     <div class="col-md-8">
                         <h5>From our blog</h5>
@@ -267,7 +267,7 @@
                         <span class="swiper-notification" aria-live="assertive" aria-atomic="true"></span>
                     </div>
                 </div>
-            </section>
+            </section> -->
             <section class="muse-section">
                 <h5>Complete Package</h5>
                 <h2 class="h1 mb-md-4 mb-3 pb-lg-4">From product design to software continuous delivery</h2>
@@ -275,14 +275,14 @@
                     <div class="col-md-4 aos-init aos-animate" data-aos="fade-up" data-aos-delay="100">
                         <div class="card muse-card px-4 px-lg-5 py-3 py-md-4 text-center rounded-12 my-3">
                             <span class="circle circle-lg bg-gray-100 m-auto mt-3"><img src="./images/services-icon-web-development.svg" alt="Mail" style="width: 20px;" /></span>
-                            <h5 class="mt-3">Web Development</h5>
+                            <h5 class="mt-3">System Designging</h5>
                             <p>Real time web application that grow with your business.</p>
                         </div>
                     </div>
                     <div class="col-md-4 aos-init aos-animate" data-aos="fade-up" data-aos-delay="100">
                         <div class="card muse-card px-4 px-lg-5 py-3 py-md-4 text-center rounded-12 my-3">
                             <span class="circle circle-lg bg-gray-100 m-auto mt-3"><img src="https://fabrx.co/muze/assets/svg/icons/map.svg" alt="Mail" style="width: 20px;" /></span>
-                            <h5 class="mt-3">Remote access</h5>
+                            <h5 class="mt-3">Development & Integration</h5>
                             <p>
                                 Manage your team and files from <br class="d-none d-xl-block" />
                                 anywhere
@@ -292,7 +292,27 @@
                     <div class="col-md-4 aos-init aos-animate" data-aos="fade-up" data-aos-delay="100">
                         <div class="card muse-card px-4 px-lg-5 py-3 py-md-4 text-center rounded-12 my-3">
                             <span class="circle circle-lg bg-gray-100 m-auto mt-3"><img src="https://fabrx.co/muze/assets/svg/icons/gift.svg" alt="Mail" style="width: 20px;" /></span>
-                            <h5 class="mt-3">Free Credits</h5>
+                            <h5 class="mt-3">Deployment</h5>
+                            <p>
+                                Redeem goodies from our <br class="d-none d-lg-block" />
+                                marketplace
+                            </p>
+                        </div>
+                    </div>
+                    <div class="col-md-4 aos-init aos-animate" data-aos="fade-up" data-aos-delay="100">
+                        <div class="card muse-card px-4 px-lg-5 py-3 py-md-4 text-center rounded-12 my-3">
+                            <span class="circle circle-lg bg-gray-100 m-auto mt-3"><img src="https://fabrx.co/muze/assets/svg/icons/gift.svg" alt="Mail" style="width: 20px;" /></span>
+                            <h5 class="mt-3">Scaling</h5>
+                            <p>
+                                Redeem goodies from our <br class="d-none d-lg-block" />
+                                marketplace
+                            </p>
+                        </div>
+                    </div>
+                    <div class="col-md-4 aos-init aos-animate" data-aos="fade-up" data-aos-delay="100">
+                        <div class="card muse-card px-4 px-lg-5 py-3 py-md-4 text-center rounded-12 my-3">
+                            <span class="circle circle-lg bg-gray-100 m-auto mt-3"><img src="https://fabrx.co/muze/assets/svg/icons/gift.svg" alt="Mail" style="width: 20px;" /></span>
+                            <h5 class="mt-3">Support & Mantainence</h5>
                             <p>
                                 Redeem goodies from our <br class="d-none d-lg-block" />
                                 marketplace
