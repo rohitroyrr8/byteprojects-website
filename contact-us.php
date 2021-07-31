@@ -22,7 +22,7 @@
                 <div class="row">
                     <div class="col-lg-7">
                         <div class="rounded-12 overflow-hidden mb-4 mb-md-0">
-                        <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3505.9793839995127!2d77.08068431507984!3d28.51026798246621!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x390d040105ecafff%3A0xd43d15e9331036e6!2sByteprojects%20-%20Blockchain%20%26%20Web%20Development%20Company!5e0!3m2!1sen!2sin!4v1627714925045!5m2!1sen!2sin" width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy"></iframe>
+                        <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3505.9793839995127!2d77.08068431507984!3d28.51026798246621!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x390d040105ecafff%3A0xd43d15e9331036e6!2sByteprojects%20-%20Blockchain%20%26%20Web%20Development%20Company!5e0!3m2!1sen!2sin!4v1627714925045!5m2!1sen!2sin" style="border:0; height: 363px" allowfullscreen="" loading="lazy"></iframe>
                         </div>
                     </div>
                     <div class="col-lg-5">
