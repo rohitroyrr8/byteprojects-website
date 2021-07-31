@@ -8,8 +8,8 @@
     define('CONTACT_2', '+91-9999032855');
 	define('ADDRESS', 'Skootr Offices, PlotNo. 264, Udyog Vihar Phase 1, Sector 20, Gurugram, Haryana 122016');
 
-	define('FACEBOOK_URL', '#');
-	define('LINKEDIN_URL', '#');
+	define('FACEBOOK_URL', 'https://www.facebook.com/byteDesigners');
+	define('LINKEDIN_URL', 'https://www.linkedin.com/company/byteproject');
 	define('GITHUB_URL', '#');
 
 	define('DB_NAME', '');

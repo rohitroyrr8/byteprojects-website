@@ -33,12 +33,12 @@
                             </div>
                             <div class="mb-4 pt-md-3">
                                 <h6>Email</h6>
-                                <p class="lh-lg"><a href="mailto:<?= EMAIL_1 ?>" class="text-white"><?= EMAIL_1 ?></a></p>
+                                <p class="lh-lg"><a href="mailto:<?= EMAIL_1 ?>" class=""><?= EMAIL_1 ?></a></p>
                             </div>
                             <div class="mb-4 pt-md-3">
                                 <h6 class="mb-3">Phone</h6>
-                                <p class="mb-2"><a href="tel:<?= CONTACT_1 ?>" class="text-white"><?= CONTACT_1 ?></a></p>
-                                <p><a href="tel:<?= CONTACT_2 ?>" class="text-white"><?= CONTACT_2 ?></a></p>
+                                <p class="mb-2"><a href="tel:<?= CONTACT_1 ?>" class=""><?= CONTACT_1 ?></a></p>
+                                <p><a href="tel:<?= CONTACT_2 ?>" class=""><?= CONTACT_2 ?></a></p>
                             </div>
                         </div>
                     </div>

@@ -45,7 +45,7 @@
                 <div class="px-lg-5">
                 <h5>Solutions</h5>
                 <h2 class="h1 mb-3">What problems do we take off from your heads?</h2>
-                <p class="lh-lg">We love to work with people who see software as the core of their businesses. During the last few years, we’ve helped CTOs in the following scenarios.</p>
+                <p class="lh-lg">If you need scalable and secure infrastructure, our DevOps engineers are eager to help – using Docker, Kubernetes, AWS, GCP and more</p>
                 <p class="lh-lg">We will help you in efficient tech stack migration, updating software, implementing new solutions and transforming technical debt into technical wealth</p>
                 <!-- <div class="row">
                 <div class="col-4">
