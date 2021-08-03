@@ -14,12 +14,9 @@
             <?php include('includes/navbar.php'); ?>
             <section class="muse-section">
                 <div class="row align-items-center">
-                    <div class="col-lg-12">
+                    <div class="col-lg-12 text-center">
                         <h3>What We Do</h3>
-                        <p>All of our ventures undertake the following product
-and commercialisation process in order to take them
-from zero to one. The road to success takes between
-6 and 18 months.</p>
+                        <p>All of our ventures undertake the following product<br> and commercialisation process in order to take them<br> from zero to one. The road to success<br> takes between 6 and 18 months.</p>
                     </div>
                 </div>
             </section>
@@ -97,14 +94,13 @@ from zero to one. The road to success takes between
                 </div>
             </section>
 
-            
             <section class="muse-section">
-                <div class="bg-blue-400 rounded-12 py-5 px-4 text-center position-relative aos-init aos-animate" data-aos="fade-up" data-aos-delay="100">
-                    <h3 class="h1 text-white mt-3">Find out how we can help you</h3>
-                    <p class="big text-white lh-lg">Looking for a reliable software development partner?</p>
-                    <a href="tel:<?= CONTACT_1 ?> " class="btn btn-lg btn-blue-50 mt-1 mb-4">Lets get in touch</a>
-                    <div class="position-bottom">
-                        <img src="images/shape5.png" alt="img" />
+                <div class="row align-items-center">
+                    <div class="col-lg-12 text-center">
+                        <h3>Work with us</h3>
+                        <p>Are you a subject matter expert looking to bring a new product<br>
+to market? We will help you bring it to life.</p>
+                        <a href="./contact-us.php">Contact</a>
                     </div>
                 </div>
             </section>
