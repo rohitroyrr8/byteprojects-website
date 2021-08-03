@@ -15,7 +15,7 @@
             <section class="muse-section">
                 <div class="row align-items-center">
                     <div class="col-lg-12 text-center">
-                        <h3>What We Do</h3>
+                        <h3 class="display-5">What We Do</h3>
                         <p>All of our ventures undertake the following product<br> and commercialisation process in order to take them<br> from zero to one. The road to success<br> takes between 6 and 18 months.</p>
                     </div>
                 </div>
@@ -100,7 +100,9 @@
                         <h3>Work with us</h3>
                         <p>Are you a subject matter expert looking to bring a new product<br>
 to market? We will help you bring it to life.</p>
-                        <a href="./contact-us.php">Contact</a>
+                        <a href="./contact-us.php" class="btn btn-primary" style="
+    padding: 25px 68px;
+">Contact</a>
                     </div>
                 </div>
             </section>

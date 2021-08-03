@@ -25,7 +25,7 @@
             <div class="collapse navbar-collapse mt-3" id="navbarNav">
                 <ul class="navbar-nav m-auto">
                     <li class="nav-item"><a class="nav-link" href="./">Homepage</a></li>
-                    <li class="nav-item"><a class="nav-link" href="#">Portfolio</a></li>
+                    <li class="nav-item"><a class="nav-link" href="./what-we-do.php">What We Do</a></li>
                     <li class="nav-item dropdown">
                         <a class="nav-link" href="#" role="button" id="services" data-toggle="dropdown" aria-expanded="false">
                             Services
