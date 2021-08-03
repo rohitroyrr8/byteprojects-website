@@ -5,7 +5,8 @@
 
 	define('EMAIL_1', 'support@byteprojects.in');
 	define('CONTACT_1', '+91-7876435599');
-    define('CONTACT_2', '+91-9999032855');
+	define('CONTACT_2', '+91-7876435599');
+    // define('CONTACT_2', '+91-9999032855');
 	define('ADDRESS', 'Skootr Offices, PlotNo. 264, Udyog Vihar Phase 1, Sector 20, Gurugram, Haryana 122016');
 
 	define('FACEBOOK_URL', 'https://www.facebook.com/byteDesigners');
