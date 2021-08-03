@@ -34,7 +34,7 @@
                                 </div>
                                 <div class="col-md-6">
                                     <div class="aos-animate aos-init my-4 pb-2 text-center" data-aos="fade-up" data-aos-delay="100">
-                                        <img src="https://www.block8.com/hubfs/Block8_April_2020/Images/product-discovery-validation.svg" class="rounded-12" alt="" style="width: 388px;">
+                                        <img src="./images/svg/product-discovery-validation.svg" class="rounded-12" alt="" style="width: 388px;">
                                     </div>
                                 </div>
                                 
@@ -54,7 +54,7 @@
                     </div>
                     <div class="col-md-6">
                         <div class="my-4 pb-2 aos-init aos-animate text-center" data-aos="fade-up" data-aos-delay="100">
-                            <img src="https://www.block8.com/hubfs/Block8_April_2020/Images/mvp-development.svg" class="rounded-12" alt="" style="width: 388px;">
+                            <img src="./images/svg/mvp-development.svg" class="rounded-12" alt="" style="width: 388px;">
                         </div>
                     </div>
                 </div>
@@ -70,7 +70,7 @@
                     </div>
                     <div class="col-md-6">
                         <div class="my-4 pb-2 aos-init aos-animate text-center" data-aos="fade-up" data-aos-delay="100">
-                            <img src="https://www.block8.com/hubfs/Block8_April_2020/Images/support-transition.svg" class="rounded-12" alt="" style="width: 388px;">
+                            <img src="./images/svg/support-transition.svg" class="rounded-12" alt="" style="width: 388px;">
                         </div>
                     </div>
                     
@@ -87,7 +87,7 @@
                     </div>
                     <div class="col-md-6">
                         <div class="my-4 pb-2 aos-init aos-animate text-center" data-aos="fade-up" data-aos-delay="100">
-                            <img src="https://www.block8.com/hubfs/Block8_April_2020/Images/traction-raise.svg" class="rounded-12" alt="" style="width: 388px;">
+                            <img src="./images/svg/traction-raise.svg" class="rounded-12" alt="" style="width: 388px;">
                         </div>
                     </div>
                     
