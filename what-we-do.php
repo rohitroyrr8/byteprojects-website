@@ -21,13 +21,13 @@
                             
                             <div class="mt-5 row">
                                 <div class="col-md-6">
-                                    <div class="my-4 pb-2 aos-init aos-animate" data-aos="fade-up" data-aos-delay="100">
-                                        <img src="https://www.block8.com/hubfs/Block8_April_2020/Images/product-discovery-validation.svg" class="rounded-12 w-100" alt="">
+                                    <div class="aos-animate aos-init my-4 pb-2 text-center" data-aos="fade-up" data-aos-delay="100">
+                                        <img src="https://www.block8.com/hubfs/Block8_April_2020/Images/product-discovery-validation.svg" class="rounded-12" alt="" style="width: 388px;">
                                     </div>
                                 </div>
-                                <div class="col-md-6">
-                                    <h1 class="display-4">Product Discovery & Validation</h1>
-                                    <p class="aos-animate aos-init" data-aos="fade-up" data-aos-delay="100" style=" margin-top: 127px; ">
+                                <div class="col-md-6 pt-lg-5">
+                                    <h3 class="">Product Discovery &amp; Validation</h3>
+                                    <p class="aos-animate aos-init" data-aos="fade-up" data-aos-delay="100" style="/* margin-top: 127px; */">
                                     This stage helps validate that there is sufficient product market fit and ensures we are focused on building the right product with the most valuable features first.
                                     </p>
                                 </div>
@@ -39,44 +39,50 @@
             </section>
             
             <section class="muse-section">
-                <div class="col-md-6">
-                    <div class="my-4 pb-2 aos-init aos-animate" data-aos="fade-up" data-aos-delay="100">
-                        <img src="https://www.block8.com/hubfs/Block8_April_2020/Images/mvp-development.svg" class="rounded-12 w-100" alt="">
+                <div class="row">
+                    <div class="col-md-6">
+                        <div class="my-4 pb-2 aos-init aos-animate" data-aos="fade-up" data-aos-delay="100">
+                            <img src="https://www.block8.com/hubfs/Block8_April_2020/Images/mvp-development.svg" class="rounded-12" alt="" style="width: 388px;">
+                        </div>
                     </div>
-                </div>
-                <div class="col-md-6">
-                    <h1 class="display-4">MVP Development</h1>
-                    <p class="aos-animate aos-init" data-aos="fade-up" data-aos-delay="100" style=" margin-top: 127px; ">
-                    We use agile methodology to rapidly build a functional minimum viable product. We provide UI/UX design, full stack development, mobile development and, of course, smart contract development.
-                    </p>
+                    <div class="col-md-6 pt-lg-5">
+                        <h1 class="display-6">MVP Development</h1>
+                        <p class="aos-animate aos-init" data-aos="fade-up" data-aos-delay="100" style="">
+                        We use agile methodology to rapidly build a functional minimum viable product. We provide UI/UX design, full stack development, mobile development and, of course, smart contract development.
+                        </p>
+                    </div>
                 </div>
             </section>
 
             <section class="muse-section">
-                <div class="col-md-6">
-                    <div class="my-4 pb-2 aos-init aos-animate" data-aos="fade-up" data-aos-delay="100">
-                        <img src="https://www.block8.com/hubfs/Block8_April_2020/Images/support-transition.svg" class="rounded-12 w-100" alt="">
+                <div class="row">
+                    <div class="col-md-6">
+                        <div class="my-4 pb-2 aos-init aos-animate" data-aos="fade-up" data-aos-delay="100">
+                            <img src="https://www.block8.com/hubfs/Block8_April_2020/Images/support-transition.svg" class="rounded-12" alt="" style="width: 388px;">
+                        </div>
                     </div>
-                </div>
-                <div class="col-md-6">
-                    <h1 class="display-4">Support & Transition</h1>
-                    <p class="aos-animate aos-init" data-aos="fade-up" data-aos-delay="100" style=" margin-top: 127px; ">
-                    After successful funding Block8 can provide ongoing development services and assist with the hiring of a internal team as required in order to maintain momentum and continuity to the project.
-                    </p>
+                    <div class="col-md-6 pt-lg-5">
+                        <h1 class="display-6">Support & Transition</h1>
+                        <p class="aos-animate aos-init" data-aos="fade-up" data-aos-delay="100" style="">
+                        After successful funding Block8 can provide ongoing development services and assist with the hiring of a internal team as required in order to maintain momentum and continuity to the project.
+                        </p>
+                    </div>
                 </div>
             </section>
 
             <section class="muse-section">
-                <div class="col-md-6">
-                    <div class="my-4 pb-2 aos-init aos-animate" data-aos="fade-up" data-aos-delay="100">
-                        <img src="https://www.block8.com/hubfs/Block8_April_2020/Images/traction-raise.svg" class="rounded-12 w-100" alt="">
+                <div class="row">
+                    <div class="col-md-6">
+                        <div class="my-4 pb-2 aos-init aos-animate" data-aos="fade-up" data-aos-delay="100">
+                            <img src="https://www.block8.com/hubfs/Block8_April_2020/Images/traction-raise.svg" class="rounded-12" alt="" style="width: 388px;">
+                        </div>
                     </div>
-                </div>
-                <div class="col-md-6">
-                    <h1 class="display-4">Traction & Raise</h1>
-                    <p class="aos-animate aos-init" data-aos="fade-up" data-aos-delay="100" style=" margin-top: 127px; ">
-                    We contribute to funding efforts with introductions to our network of investors and partners. We also advise on strategy, commercials, and corporate governance.
-                    </p>
+                    <div class="col-md-6 pt-lg-5">
+                        <h1 class="display-6">Traction & Raise</h1>
+                        <p class="aos-animate aos-init" data-aos="fade-up" data-aos-delay="100" style="">
+                        We contribute to funding efforts with introductions to our network of investors and partners. We also advise on strategy, commercials, and corporate governance.
+                        </p>
+                    </div>
                 </div>
             </section>
 
