@@ -3,7 +3,7 @@
 <html lang="en">
     <head>
         <meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
-        <title>About Us | <?= APP_NAME ?></title>
+        <title>About Us | Blockchain Technology Development Company | <?= APP_NAME ?></title>
 
         <meta name="description" content="About Byteprojects Technologies" />
         <meta name="keywords" content="Byteprojects, About Byteprojects, Blockchain development company, blockchain" />
