@@ -14,19 +14,31 @@
             <?php include('includes/navbar.php'); ?>
             <section class="muse-section">
                 <div class="row align-items-center">
+                    <div class="col-lg-12">
+                        <h3>What We Do</h3>
+                        <p>All of our ventures undertake the following product
+and commercialisation process in order to take them
+from zero to one. The road to success takes between
+6 and 18 months.</p>
+                    </div>
+                </div>
+            </section>
+
+            <section class="muse-section">
+                <div class="row align-items-center">
                 <div class="col-lg-12">
                         <div class="">
-                            <<div class="mt-5 row">
-                                <div class="col-md-6">
-                                    <div class="aos-animate aos-init my-4 pb-2 text-center" data-aos="fade-up" data-aos-delay="100">
-                                        <img src="https://www.block8.com/hubfs/Block8_April_2020/Images/product-discovery-validation.svg" class="rounded-12" alt="" style="width: 388px;">
-                                    </div>
-                                </div>
+                            <div class="mt-5 row">
                                 <div class="col-md-6 pt-lg-5">
                                     <h3 class="">Product Discovery &amp; Validation</h3>
                                     <p class="aos-animate aos-init" data-aos="fade-up" data-aos-delay="100" style="/* margin-top: 127px; */">
                                     This stage helps validate that there is sufficient product market fit and ensures we are focused on building the right product with the most valuable features first.
                                     </p>
+                                </div>
+                                <div class="col-md-6">
+                                    <div class="aos-animate aos-init my-4 pb-2 text-center" data-aos="fade-up" data-aos-delay="100">
+                                        <img src="https://www.block8.com/hubfs/Block8_April_2020/Images/product-discovery-validation.svg" class="rounded-12" alt="" style="width: 388px;">
+                                    </div>
                                 </div>
                                 
                             </div>
