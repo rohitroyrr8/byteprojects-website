@@ -76,9 +76,8 @@
                 <div class="row align-items-center">
                     <div class="col-lg-6">
                         <div class="px-lg-5 pb-lg-0 pb-md-4">
-                            <h5>Optimization</h5>
+                            <!-- <h5>Optimization</h5> -->
                             <h2 class="h1 mb-md-3">We apply our people, technology and commercialisation capability to create successful products.</h2>
-                            <p>Our team is made up of product, business and technology experts, whose broad set of skills not only allows us to be agile, but also allows us to be leaders in developing the next generation of the internet.</p>
                             <!-- <ul class="plan-features mb-4 mb-md-0">
                                 <li>
                                     <small class="shadow-sm">
@@ -444,8 +443,8 @@
             </section>
             <section class="muse-section">
                 <div class="bg-blue-400 rounded-12 py-md-5 px-md-4 py-4 px-3 text-center position-relative aos-init aos-animate" data-aos="fade-up" data-aos-delay="100">
-                    <p class="big text-white lh-lg">Is software important for your business?</p>    
-                    <h3 class="h1 text-white mt-3">Build great products with our Blockchain Development Services.</h3> 
+                    <h3 class="h1 text-white mt-3">Let's get started!</h3>
+                    <p class="big text-white lh-lg">Are you a subject matter expert looking to bring a new product to market? We will help you bring it to life.</p>    
                     <a href="#" class="btn btn-lg btn-blue-50 mt-1 mb-4">Contact Us</a>
                     <div class="position-bottom">
                         <img src="https://fabrx.co/muze/assets/img/templates/shape5.png" alt="img">
