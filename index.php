@@ -77,8 +77,9 @@
                     <div class="col-lg-6">
                         <div class="px-lg-5 pb-lg-0 pb-md-4">
                             <h5>Optimization</h5>
-                            <h2 class="h1 mb-md-3">Incredible speed and performance.</h2>
-                            <ul class="plan-features mb-4 mb-md-0">
+                            <h2 class="h1 mb-md-3">We apply our people, technology and commercialisation capability to create successful products.</h2>
+                            <p>Our team is made up of product, business and technology experts, whose broad set of skills not only allows us to be agile, but also allows us to be leaders in developing the next generation of the internet.</p>
+                            <!-- <ul class="plan-features mb-4 mb-md-0">
                                 <li>
                                     <small class="shadow-sm">
                                         <svg xmlns="http://www.w3.org/2000/svg" width="12" height="12" viewBox="0 0 10 10">
@@ -127,7 +128,7 @@
                                         <p>Add live animations and 3d elements to your design with our incredibly</p>
                                     </div>
                                 </li>
-                            </ul>
+                            </ul> -->
                         </div>
                     </div>
                     <div class="col-sm-6 col-lg-3 pl-lg-0 pr-lg-3">
