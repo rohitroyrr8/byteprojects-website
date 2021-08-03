@@ -444,7 +444,7 @@
             <section class="muse-section">
                 <div class="bg-blue-400 rounded-12 py-md-5 px-md-4 py-4 px-3 text-center position-relative aos-init aos-animate" data-aos="fade-up" data-aos-delay="100">
                     <h3 class="h1 text-white mt-3">Let's get started!</h3>
-                    <p class="big text-white lh-lg">Are you a subject matter expert looking to bring a new product to market? We will help you bring it to life.</p>    
+                    <p class="big text-white lh-lg">Are you a subject matter expert looking to bring a new product <br>to market? We will help you bring it to life.</p>    
                     <a href="#" class="btn btn-lg btn-blue-50 mt-1 mb-4">Contact Us</a>
                     <div class="position-bottom">
                         <img src="https://fabrx.co/muze/assets/img/templates/shape5.png" alt="img">
