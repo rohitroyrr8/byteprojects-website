@@ -40,7 +40,7 @@
         <h6 class="font-weight-bold">Others</h6>
         <ul class="list-unstyled footer-link">
           <li>
-            <a href="javascript:void(0);">Terms and Conditions</a>
+            <a href="./terms-and-conditions.php">Terms and Conditions</a>
           </li>
           <li>
             <a href="javascript:void(0);">Portfolio</a>
