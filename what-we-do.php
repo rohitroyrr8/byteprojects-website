@@ -98,11 +98,8 @@
                 <div class="row align-items-center">
                     <div class="col-lg-12 text-center">
                         <h3>Work with us</h3>
-                        <p>Are you a subject matter expert looking to bring a new product<br>
-to market? We will help you bring it to life.</p>
-                        <a href="./contact-us.php" class="btn btn-primary" style="
-    padding: 25px 68px;
-">Contact</a>
+                        <p>Are you a subject matter expert looking to bring a new product<br> to market? We will help you bring it to life.</p>
+                        <a href="./contact-us.php" class="btn btn-primary" style="padding: 25px 68px;">Contact</a>
                     </div>
                 </div>
             </section>

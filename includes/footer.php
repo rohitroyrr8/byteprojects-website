@@ -6,53 +6,44 @@
         <p class="lh-lg">We are passionate about building carefully <br class="d-none d-lg-block">thought out UI products that will improve your <br class="d-none d-lg-block">design workflow.</p>
       </div>
       <div class="col mb-3">
-        <h6 class="font-weight-bold">Resources</h6>
-        <ul class="list-unstyled footer-link">
-          <li>
-            <a href="javascript:void(0);">Tutorials</a>
-          </li>
-          <li>
-            <a href="javascript:void(0);">Plugins <span class="badge badge-primary fs-11 py-1 px-2 ml-1">NEW</span></a>
-          </li>
-          <li>
-            <a href="javascript:void(0);">Events</a>
-          </li>
-          <li>
-            <a href="javascript:void(0);">Integrations</a>
-          </li>
-        </ul>
-      </div>
-      <div class="col mb-3">
         <h6 class="font-weight-bold">About</h6>
         <ul class="list-unstyled footer-link">
           <li>
-            <a href="javascript:void(0);">Community</a>
+            <a href="javascript:void(0);">About Us</a>
           </li>
           <li>
-            <a href="javascript:void(0);">Company</a>
-          </li>
-          <li>
-            <a href="javascript:void(0);">Jobs</a>
+            <a href="./contact-us.php">Contact Us</a>
           </li>
           <li>
             <a href="javascript:void(0);">Blog</a>
           </li>
+          <li>
+            <a href="javascript:void(0);">Career <span class="badge badge-primary fs-11 py-1 px-2 ml-1">Hiring</span></a>
+          </li>
         </ul>
       </div>
       <div class="col mb-0 mb-md-3">
-        <h6 class="font-weight-bold">Support</h6>
+        <h6 class="font-weight-bold">Blockchain Development</h6>
         <ul class="list-unstyled footer-link">
           <li>
-            <a href="javascript:void(0);">Help Center</a>
+            <a href="javascript:void(0);">Hyperledger Fabric Development</a>
           </li>
           <li>
-            <a href="javascript:void(0);">Tickets</a>
+            <a href="javascript:void(0);">Ethereum Development</a>
           </li>
           <li>
-            <a href="javascript:void(0);">Contact</a>
+            <a href="javascript:void(0);">R3 Corda Development</a>
+          </li>
+        </ul>
+      </div>
+      <div class="col mb-3">
+        <h6 class="font-weight-bold">Others</h6>
+        <ul class="list-unstyled footer-link">
+          <li>
+            <a href="javascript:void(0);">Terms and Conditions</a>
           </li>
           <li>
-            <a href="javascript:void(0);">Forum</a>
+            <a href="javascript:void(0);">Portfolio</a>
           </li>
         </ul>
       </div>
@@ -61,7 +52,7 @@
     <div class="row">
       <div class="col-sm-5 order-sm-2">
         <div class="social-icons">
-          <a href="javascript:void(0);"><svg data-name="icons/tabler/facebook" xmlns="http://www.w3.org/2000/svg" width="20" height="20" viewBox="0 0 16 16">
+          <a href="<?= FACEBOOK_URL ?>"><svg data-name="icons/tabler/facebook" xmlns="http://www.w3.org/2000/svg" width="20" height="20" viewBox="0 0 16 16">
             <rect data-name="Icons/Tabler/Facebook background" width="16" height="16" fill="none"></rect>
             <path d="M6.359,16H3.077a.618.618,0,0,1-.61-.532l-.005-.084V10.256H.616a.618.618,0,0,1-.61-.532L0,9.641V6.359a.617.617,0,0,1,.532-.61l.084-.005H2.462V4.718A4.7,4.7,0,0,1,7,0l.181,0H9.641a.618.618,0,0,1,.61.532l.005.084V3.9a.617.617,0,0,1-.532.61l-.084.005H7.179a.2.2,0,0,0-.2.158l-.005.047V5.744H9.641a.615.615,0,0,1,.611.687l-.013.077L9.418,9.79a.614.614,0,0,1-.5.459l-.092.007H6.974v5.128a.618.618,0,0,1-.532.61ZM1.231,6.974V9.025H3.077a.617.617,0,0,1,.609.532l.006.084v5.128H5.744V9.641a.616.616,0,0,1,.532-.609l.084-.006h1.98l.513-2.051H6.359a.617.617,0,0,1-.61-.532l-.005-.083V4.718A1.443,1.443,0,0,1,7.061,3.287l.118,0H9.025V1.231H7.179A3.481,3.481,0,0,0,3.7,4.549l0,.169V6.359a.617.617,0,0,1-.532.609l-.084.005Z" transform="translate(3)" fill="#1E1E1E"></path>
           </svg>
@@ -79,7 +70,7 @@
         </div>
       </div>
       <div class="col-sm-7">
-        <p class="small text-muted text-center text-sm-left mb-2">© <?=date('Y')?> Byteprojects Technologies. All rights reserved.</p>
+        <p class="small text-muted text-center text-sm-left mb-2">© <?=date('Y')?> <?= APP_NAME ?>. All rights reserved.</p>
       </div>
     </div>
   </div>
