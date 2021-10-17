@@ -2,7 +2,7 @@
   <div class="container">
     <div class="row pt-3 pt-md-4">
       <div class="col-md-5 mb-3">
-        <img src="images/logo/byteprojects-logo.jpeg" alt="Byteprojects" class="mb-2" style="width: 230px">
+        <img src="images/logo/logo.png" alt="Byteprojects" class="mb-2" style="width: 230px">
         <p class="lh-lg">We are passionate about building carefully <br class="d-none d-lg-block">thought out UI products that will improve your <br class="d-none d-lg-block">design workflow.</p>
       </div>
       <div class="col mb-3">

@@ -384,7 +384,7 @@
                             </div>
                             <div class="col-md-3 text-center">
                                 <div class="m-3 p-3" style="height: 85px">
-                                    <img style="width: 125px" src="https://miro.medium.com/max/815/1*0n66zZ2D8-vDkoCDqRbiJQ.png" alt="">
+                                    <img style="width: 125px" src="https://cncf-branding.netlify.app/img/projects/argo/horizontal/color/argo-horizontal-color.png" alt="">
                                 </div>
                             </div>
                             <div class="col-md-3 text-center">
@@ -407,7 +407,7 @@
                 </div>
                
             </section>
-            <section class="muse-section">
+            <!-- <section class="muse-section">
                 <div class="row g-0 pt-4 mt-2 aos-init aos-animate" data-aos="fade-up" data-aos-delay="100">
                     <h5>Complete Package</h5>
                     <h2 class="h1 mb-md-4 mb-3 pb-lg-4">From product design to software continuous delivery</h2>
@@ -440,7 +440,7 @@
                         </div>
                     </div>
                 </div>
-            </section>
+            </section> -->
             <section class="muse-section">
                 <div class="bg-blue-400 rounded-12 py-md-5 px-md-4 py-4 px-3 text-center position-relative aos-init aos-animate" data-aos="fade-up" data-aos-delay="100">
                     <h3 class="h1 text-white mt-3">Let's get started!</h3>
@@ -455,5 +455,28 @@
         </div>
         <?php include('includes/footer.php' ); ?>
         <?php include('includes/script.php' ); ?>
+
+        <div class="muse-cookie bg-black-600 py-3 alert alert-dismissible mb-0" role="alert">
+            <div class="container">
+                <div class="row align-items-center">
+                    <div class="col-11 pl-0 pl-md-3">
+                        <p class="mb-0 text-white font-weight-normal">By continuing to use this website, you consent to the use of our <a href="#" class="text-success font-weight-semibold">Cookie Policy</a>.</p>
+                    </div>
+                    <div class="col-1 text-right px-0">
+                        <a href="#" class="text-secondary h4 mb-0 mt-1" data-dismiss="alert" aria-label="Close">
+                            <svg data-name="icons/tabler/close" xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 16 16">
+                                <rect data-name="Icons/Tabler/Close background" width="16" height="16" fill="none" />
+                                <path
+                                    d="M.82.1l.058.05L6,5.272,11.122.151A.514.514,0,0,1,11.9.82l-.05.058L6.728,6l5.122,5.122a.514.514,0,0,1-.67.777l-.058-.05L6,6.728.878,11.849A.514.514,0,0,1,.1,11.18l.05-.058L5.272,6,.151.878A.514.514,0,0,1,.75.057Z"
+                                    transform="translate(2 2)"
+                                    fill="#ffffff"
+                                />
+                            </svg>
+                        </a>
+                    </div>
+                </div>  
+            </div>
+        </div>
+
     </body>
 </html>
