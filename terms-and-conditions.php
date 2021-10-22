@@ -10,7 +10,7 @@
         <meta name="author" content="Byteprojects Technologies" />
         <?php include('includes/header.php'); ?>
     </head>
-    <body class="bg-black-800 saas-template" data-aos-easing="ease-out" data-aos-duration="400" data-aos-delay="0">
+    <body class="saas3-template bg-gray-100" data-aos-easing="ease-out" data-aos-duration="400" data-aos-delay="0">
     <div class="container">
         <?php include('includes/navbar.php'); ?>
         <section class="muse-section pb-4 pb-md-5 ">

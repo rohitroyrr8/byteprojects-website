@@ -9,7 +9,7 @@
         <h6 class="font-weight-bold">About</h6>
         <ul class="list-unstyled footer-link">
           <li>
-            <a href="javascript:void(0);">About Us</a>
+            <a href="./about-us.php">About Us</a>
           </li>
           <li>
             <a href="./contact-us.php">Contact Us</a>
