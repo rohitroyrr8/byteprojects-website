@@ -410,8 +410,8 @@
             <section class="muse-section">
                 <div class="row g-0 pt-4 mt-2 aos-init aos-animate" data-aos="fade-up" data-aos-delay="100">
                     <div class="col-xl-8 m-auto text-center">
-                        <h2 class="display-3">Blockchain Networks</h2>
-                        <h3 class="h4 mb-0 pb-md-3 mt-3">Flexible for individuals and startups</h3>
+                        <!-- <h2 class="display-3">Blockchain Networks</h2> -->
+                        <h3 class="h4 mb-0 pb-md-3 mt-3">Blockchain Networks</h3>
                     </div>
                     <div class="w-100 d-flex justify-content-center mt-4">
                         <div class="row">
