@@ -284,7 +284,6 @@
                         <b>Why are cookies important?</b> 
                         <br>
                         Cookies help you make your online experience more efficient and relevant to your interests. For instance, they are used to remember your preferences on sites you visit often, to remember your user ID and the contents of your shopping baskets, and to help you navigate between pages efficiently.
-                        </p>
                         <br><br>
                         <b>What Are Cookie?</b> 
                         <br>
