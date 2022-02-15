@@ -275,6 +275,18 @@
 
                         </div>
                     </div>
+
+                    <div class="wpb_text_column wpb_content_element ">
+                        <div class="wpb_wrapper">
+                        <h2 style="font-size: 14px;"><strong>17. Cokkie Policy</strong></h2>
+                        <p class="text-gray-600"><strong>Byteprojects Technologies</strong> operates a strict privacy policy and we are committed to being transparent about how we use cookies on our website.
+                        <br>
+                        <b>Why are cookies important?</b> 
+                        Cookies help you make your online experience more efficient and relevant to your interests. For instance, they are used to remember your preferences on sites you visit often, to remember your user ID and the contents of your shopping baskets, and to help you navigate between pages efficiently.
+                        </p>
+
+                        </div>
+                    </div>
                     <div class="vc_empty_space" style="height: 40px"><span class="vc_empty_space_inner"></span></div>
                     </div>
             </div>
