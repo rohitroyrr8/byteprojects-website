@@ -47,3 +47,6 @@ reduces memory consumption, and increases web server capacity. A special Apache 
 ## Confirm the php8.0-fpm service is running.
 
 ``` sudo systemctl status php8.0-fpm```
+
+## SSh into instance
+```ssh -i byteprojects_main.pem ubuntu@3.111.0.56```
