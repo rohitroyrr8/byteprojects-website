@@ -280,11 +280,26 @@
                         <div class="wpb_wrapper">
                         <h2 style="font-size: 14px;"><strong>17. Cokkie Policy</strong></h2>
                         <p class="text-gray-600"><strong>Byteprojects Technologies</strong> operates a strict privacy policy and we are committed to being transparent about how we use cookies on our website.
-                        <br>
+                        <br><br>
                         <b>Why are cookies important?</b> 
+                        <br>
                         Cookies help you make your online experience more efficient and relevant to your interests. For instance, they are used to remember your preferences on sites you visit often, to remember your user ID and the contents of your shopping baskets, and to help you navigate between pages efficiently.
                         </p>
-
+                        <br><br>
+                        <b>What Are Cookie?</b> 
+                        <br>
+                        A cookie is a small file, or files on your computer, phone, or other device with a browser to save snippets
+                        of text for reference by the website you are visiting. All cookies have expiration dates in them that
+                        determine how long they stay in your browser.
+                        </p>
+                        <p class="text-gray-600">To ensure compliance with our policies, we restrict the use of third-party cookies to trusted partners.
+                            We also use third party information from third party sources to enable us deliver advertising. These
+                            sources are validated by Third party, and not by us.
+                            To delete cookies from your browser, please note the following simple steps. The following steps are
+                            indicative for Google chrome and might vary of the different browsers that you may use. Please refer
+                            Settings on your browser for further details.</p>
+                        <p class="text-gray-600">To ensure compliance with our policies, we restrict the use of third-party cookies to trusted partners.
+                        You may also change other setting related to Privacy and Security under the same section.</p>
                         </div>
                     </div>
                     <div class="vc_empty_space" style="height: 40px"><span class="vc_empty_space_inner"></span></div>
