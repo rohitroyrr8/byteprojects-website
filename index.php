@@ -422,7 +422,7 @@
                             </div>
                             <div class="col-md-3 text-center">
                                 <div class="m-3 p-3" style="height: 85px">
-                                    <img style="width: 125px" src="https://cryptodaily.io/wp-content/uploads/2021/07/p-2-2048x573.png" alt="">
+                                    <img style="width: 125px; padding-top: 24px" src="https://cryptodaily.io/wp-content/uploads/2021/07/p-2-2048x573.png" alt="">
                                 </div>
                             </div>
                             <div class="col-md-3 text-center">
@@ -447,7 +447,7 @@
                             </div>
                             <div class="col-md-3 text-center">
                                 <div class="m-3 p-3" style="height: 85px">
-                                    <img style="width: 125px" src="http://bloomen.io/wp-content/uploads/2020/04/Bildschirmfoto-2020-04-30-um-17.20.01.png" alt="">
+                                    <img style="width: 125px; padding-top 12px" src="https://chainstack.com/wp-content/uploads/2021/12/quorum.png" alt="">
                                 </div>
                             </div>
                         </div>
