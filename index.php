@@ -324,7 +324,7 @@
             </section>
 
           
-           <section class="muse-section">
+            <section class="muse-section">
                 <div class="row g-0 pt-4 mt-2 aos-init aos-animate" data-aos="fade-up" data-aos-delay="100">
                     <div class="col-xl-8 m-auto text-center">
                         <h2 class="display-3">Tech Stack</h2>
@@ -400,6 +400,59 @@
                             <div class="col-md-3 text-center">
                                 <div class="m-3 p-3" style="height: 85px">
                                     <img style="width: 125px" src="https://doc.octoperf.com/monitoring/create-connection/postgres/img/postgresql-logo.png" alt="">
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+               
+            </section>
+            <section class="muse-section">
+                <div class="row g-0 pt-4 mt-2 aos-init aos-animate" data-aos="fade-up" data-aos-delay="100">
+                    <div class="col-xl-8 m-auto text-center">
+                        <h2 class="display-3">Blockchain Networks</h2>
+                        <h3 class="h4 mb-0 pb-md-3 mt-3">Flexible for individuals and startups</h3>
+                    </div>
+                    <div class="w-100 d-flex justify-content-center mt-4">
+                        <div class="row">
+                            <div class="col-md-3 text-center">
+                                <div class="m-3 p-3" style="height: 85px">
+                                    <img style="width: 125px" src="https://d33wubrfki0l68.cloudfront.net/b2240131938869d2cf103d264b2fb6afacf33335/dbd44/static/9e43837989f5a675de707424188ea962/2a657/ethereum-logo-portrait-black.png" alt="">
+                                </div>
+                            </div>
+                            <div class="col-md-3 text-center">
+                                <div class="m-3 p-3" style="height: 85px">
+                                    <img style="width: 125px" src="https://www.logowik.com/content/uploads/images/binance-smart-chain6387.jpg" alt="">
+                                </div>
+                            </div>
+                            <div class="col-md-3 text-center">
+                                <div class="m-3 p-3" style="height: 85px">
+                                    <img style="width: 88px" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS1ZGvV_Zx4sfbDk395t8fjt9cP4vL0u3E5_NsTQ8Q6ki6tU1tGP7oIpmVd_XGgriaQYuc&usqp=CAU" alt="">
+                                </div>
+                            </div>
+                            <div class="col-md-3 text-center">
+                                <div class="m-3 p-3" style="height: 85px">
+                                    <img style="width: 140px" src="https://seeklogo.com/images/S/solana-sol-logo-9AA58519FE-seeklogo.com.png" alt="">
+                                </div>
+                            </div>
+                            <div class="col-md-3 text-center">
+                                <div class="m-3 p-3" style="height: 85px">
+                                    <img style="width: 125px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/59/Polkadot_Logotype_color.png/640px-Polkadot_Logotype_color.png" alt="">
+                                </div>
+                            </div>
+                            <div class="col-md-3 text-center">
+                                <div class="m-3 p-3" style="height: 85px">
+                                    <img style="width: 125px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/AngularJS_logo.svg/800px-AngularJS_logo.svg.png" alt="">`
+                                </div>
+                            </div>
+                            <div class="col-md-3 text-center">
+                                <div class="m-3 p-3" style="height: 85px">
+                                    <img style="width: 125px" src="https://cdn.pixabay.com/photo/2021/06/03/09/04/cardano-6306459_960_720.png" alt="">
+                                </div>
+                            </div>
+                            <div class="col-md-3 text-center">
+                                <div class="m-3 p-3" style="height: 85px">
+                                    <img style="width: 125px" src="https://insureblocks.com/wp-content/uploads/2019/08/Quorum-logo.png" alt="">
                                 </div>
                             </div>
                         </div>
