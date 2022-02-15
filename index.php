@@ -422,17 +422,17 @@
                             </div>
                             <div class="col-md-3 text-center">
                                 <div class="m-3 p-3" style="height: 85px">
-                                    <img style="width: 125px" src="https://www.logowik.com/content/uploads/images/binance-smart-chain6387.jpg" alt="">
+                                    <img style="width: 125px" src="https://cryptodaily.io/wp-content/uploads/2021/07/p-2-2048x573.png" alt="">
                                 </div>
                             </div>
                             <div class="col-md-3 text-center">
                                 <div class="m-3 p-3" style="height: 85px">
-                                    <img style="width: 88px" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS1ZGvV_Zx4sfbDk395t8fjt9cP4vL0u3E5_NsTQ8Q6ki6tU1tGP7oIpmVd_XGgriaQYuc&usqp=CAU" alt="">
+                                    <img style="width: 100px; padding-top: 24px" src="https://stakehound.com/wp-content/uploads/2021/04/Polygon-logo.png" alt="">
                                 </div>
                             </div>
                             <div class="col-md-3 text-center">
                                 <div class="m-3 p-3" style="height: 85px">
-                                    <img style="width: 140px" src="https://seeklogo.com/images/S/solana-sol-logo-9AA58519FE-seeklogo.com.png" alt="">
+                                    <img style="width: 60px" src="https://seeklogo.com/images/S/solana-sol-logo-9AA58519FE-seeklogo.com.png" alt="">
                                 </div>
                             </div>
                             <div class="col-md-3 text-center">
@@ -442,17 +442,12 @@
                             </div>
                             <div class="col-md-3 text-center">
                                 <div class="m-3 p-3" style="height: 85px">
-                                    <img style="width: 125px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/AngularJS_logo.svg/800px-AngularJS_logo.svg.png" alt="">`
-                                </div>
-                            </div>
-                            <div class="col-md-3 text-center">
-                                <div class="m-3 p-3" style="height: 85px">
                                     <img style="width: 125px" src="https://cdn.pixabay.com/photo/2021/06/03/09/04/cardano-6306459_960_720.png" alt="">
                                 </div>
                             </div>
                             <div class="col-md-3 text-center">
                                 <div class="m-3 p-3" style="height: 85px">
-                                    <img style="width: 125px" src="https://insureblocks.com/wp-content/uploads/2019/08/Quorum-logo.png" alt="">
+                                    <img style="width: 125px" src="http://bloomen.io/wp-content/uploads/2020/04/Bildschirmfoto-2020-04-30-um-17.20.01.png" alt="">
                                 </div>
                             </div>
                         </div>
